@@ -1,0 +1,2072 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">traso</journal-id>
+			<journal-title-group>
+				<journal-title>Trabajo social</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Trab. soc.</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">2256-5493</issn>
+			<publisher>
+				<publisher-name>Universidad Nacional de Colombia</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.15446/ts.v23n2.87446</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>ArtÃ­culos</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Devenires de la polÃ­tica social: conceptualizaciones y menciones sobre el consumo en los Proqramas de Transferencias Condicionadas de Ingresos<xref ref-type="fn" rid="fn6"><sup>*</sup></xref>
+				</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Transformations of Social Policy: Conceptualizations and Mentions of Consumption in Conditional Cash Transfer Programs</trans-title>
+				</trans-title-group>
+				<trans-title-group xml:lang="pt">
+					<trans-title>O devir da polÃ­tica social: conceituaÃ§Ãµes e menÃ§Ãµes sobre o consumo em Programas de TransferÃªncia Condicionadas de ingressos</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0001-9985-6690</contrib-id>
+					<name>
+						<surname>Dettano</surname>
+						<given-names>Andrea</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>**</sup></xref>
+				</contrib>
+				<aff id="aff1">
+					<label>**</label>
+					<institution content-type="original">Becario posdoctoral Consejo Nacional de Investigaciones CientÃ­ficas y TÃ©cnicas (Conicet), Universidad Nacional de La Matanza, Buenos Aires, Argentina, andreadettano@gmail.com / https://orcid.org/0000-0001-9985-6690 </institution>
+					<institution content-type="normalized">Universidad Nacional de La Matanza</institution>
+					<institution content-type="orgname">Universidad Nacional de La Matanza</institution>
+					<addr-line>
+						<city>Buenos Aires</city>
+					</addr-line>
+					<country country="AR">Argentina</country>
+					<email>andreadettano@gmail.com</email>
+				</aff>
+			</contrib-group>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>27</day>
+				<month>04</month>
+				<year>2022</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jul-Dec</season>
+				<year>2021</year>
+			</pub-date>
+			<volume>23</volume>
+			<issue>2</issue>
+			<fpage>357</fpage>
+			<lpage>378</lpage>
+			<history>
+				<date date-type="received">
+					<day>20</day>
+					<month>05</month>
+					<year>2020</year>
+				</date>
+				<date date-type="accepted">
+					<day>12</day>
+					<month>03</month>
+					<year>2021</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es">
+					<license-p>Este es un artÃ­culo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>El objetivo de este escrito es, a partir de un anÃ¡lisis documental, observar las conceptualizaciones y articulaciones que presentan los Programas de Transferencias Condicionadas con el Consumo (PTCI). Los hallazgos se sintetizan en: escritos que mencionan los PTCI como una modalidad que posibilita incrementar el consumo de los hogares; aquellos que asocian estos consumos con la dinamizaciÃ³n del mercado y la economÃ­a; los que abordan los consumos que las transferencias habilitarÃ­an; y, por Ãºltimo, aquellos que abordan la financiarizaciÃ³n que posibilitan. Se concluye que el consumo es un elemento de gran importancia en estos programas, que complejiza conceptualmente el objeto conocido como polÃ­tica social.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<p>The aim of this paper is, from a documentary analysis, to observe the conceptualizations and articulations presented by the conditional cash transfer programs with consumption. The findings are synthesized in: writings that mention the CCTP'S as a modality that makes it possible to increase household consumption; those who associate these consumptions with the revitalization of the market and the economy; those that address the consumption that transfers would enable and, lastly, those that address the financialization that they enable. It is concluded that consumption is an element of great importance in these programs, that turns conceptually complex the object known as social policy.</p>
+			</trans-abstract>
+			<trans-abstract xml:lang="pt">
+				<title>Resumo</title>
+				<p>O objetivo deste artigo Ã©, a partir de uma anÃ¡lise documental, observar as conceituaÃ§Ãµes e articulaÃ§Ãµes apresentadas pelos Programas de TransferÃªncia Condicionadas com o Consumo (PTCI). Os resultados sÃ£o sintetizados em: escritos que mencionam o PTCI como uma modalidade que permite aumentar o consumo das famÃ­lias; aqueles que associam esses consumos Ã  revitalizaÃ§Ã£o do mercado e da economia; as que visam o consumo que as transferÃªncias possibilitariam; e, por Ãºltimo, as que visam a financeirizaÃ§Ã£o que elas possibilitam. Conclui-se que o consumo Ã© um elemento de grande importÃ¢ncia nesses programas, o que dificulta conceitualmente o objeto conhecido como polÃ­tica social.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title><italic>Palabras clave:</italic></title>
+				<kwd>polÃ­ticas sociales, consumo, Programas de Transferencias Condicionadas de Ingresos</kwd>
+				<kwd>pobreza, financiarizaciÃ³n, mercado</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title><italic>Keywords:</italic></title>
+				<kwd>consumption</kwd>
+				<kwd>conditional cash transfer programs</kwd>
+				<kwd>financialization</kwd>
+				<kwd>market</kwd>
+				<kwd>poverty</kwd>
+				<kwd>Social Policies</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="pt">
+				<title><italic>Palavras-chave:</italic></title>
+				<kwd>polÃ­ticas sociais, consumo, Programas de TransferÃªncia Condicionadas de ingressos</kwd>
+				<kwd>pobreza, financeirizaÃ§Ã£o, mercado</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="1"/>
+				<equation-count count="0"/>
+				<ref-count count="84"/>
+				<page-count count="22"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>IntroducciÃ³n</title>
+			<p>Las polÃ­ticas sociales son un objeto que no posee una Ãºnica definiciÃ³n. Distintas miradas las definen en tanto intervenciones del Estado orientadas a incidir en las condiciones de producciÃ³n y reproducciÃ³n de la vida de distintos sectores y grupos sociales (<xref ref-type="bibr" rid="B19">Danani 2004</xref>). Algunos constructos teÃ³ricos le otorgan funciones mÃ¡s benevolentes y otros seÃ±alan su capacidad para mitigar, compensar y/o atenuar los conflictos sociales, siempre presentes en sociedades atravesadas por la tensiÃ³n entre igualdad jurÃ­dica y desigualdad econÃ³mica. MÃ¡s allÃ¡ de las diferentes definiciones, estas se encuentran signadas por un contexto y por los fenÃ³menos que atraviesan una Ã©poca, como, en este caso, el consumo.</p>
+			<p>Las transformaciones del Ãºltimo cuarto del siglo XX, los cambios en el rÃ©gimen de acumulaciÃ³n, asÃ­ como la reestructuraciÃ³n tanto del Estado de bienestar como del mundo del trabajo (<xref ref-type="bibr" rid="B33">Harvey 2008</xref>; <xref ref-type="bibr" rid="B4">Antunes 2005</xref>; <xref ref-type="bibr" rid="B41">Neffa y De la Garza Toledo 2010</xref>) han impactado en el modelo de polÃ­tica social caracterizado por intervenciones asociadas al sistema de seguridad social centrado en la figura del trabajador asalariado propias de mitad del siglo XX. Dicho modelo ha virado hacia un esquema que redujo el rol de estas Ãºltimas al de ser principalmente subsidiarias en materia de pobreza (<xref ref-type="bibr" rid="B44">Pautassi 1995</xref>; <xref ref-type="bibr" rid="B3">Andrenacci 2002</xref>; <xref ref-type="bibr" rid="B31">Grassi 2003</xref>; <xref ref-type="bibr" rid="B21">De Sena 2016</xref>), por lo que las modalidades para su atenciÃ³n abren paso a una fuerte redefiniciÃ³n de los sistemas de bienestar propios del siglo xxi definidos crecientemente por su carÃ¡cter masivo, focalizado y orientado hacia el fomento del consumo (<xref ref-type="bibr" rid="B20">De Sena 2011</xref>; <xref ref-type="bibr" rid="B14">De Sena y Scribano 2014</xref>).</p>
+			<p>El modo en que la denominada sociedad de consumo va ganando espacio en el debate sociolÃ³gico actual (<xref ref-type="bibr" rid="B6">Baudrillard 2011</xref>; <xref ref-type="bibr" rid="B2">Alonso 2005</xref>; <xref ref-type="bibr" rid="B7">Bauman 2007</xref>), asÃ­ como las numerosas menciones acerca del modo en que las polÃ­ticas bajo estudio aumentan, incentivan y/o favorecen el consumo nos conduce a repensar el objeto conocido como polÃ­tica social. Dicho objeto, como ya hemos mencionado, no puede ser pensado en un vacÃ­o sino en una interrelaciÃ³n con otros aspectos del mundo social (<xref ref-type="bibr" rid="B52">Titmuss 1974</xref>; <xref ref-type="bibr" rid="B1">Adelantado et al. 1998</xref>) y es en ese mundo en el que se le han atribuido a las polÃ­ticas sociales una serie de funciones que no solo perseguirÃ­an reducir la pobreza, alcanzar el cumplimiento de los derechos sociales, sino que tambiÃ©n contendrÃ­an una nueva concepciÃ³n del dinero pÃºblico, portador de la tarea de contribuir a la reactivaciÃ³n del mercado interno y del conjunto de la economÃ­a, asÃ­ como &quot;incluir&quot; a los sujetos en el mercado y en el consumo (<xref ref-type="bibr" rid="B84">Wilkis 2014</xref>; <xref ref-type="bibr" rid="B36">LombardÃ­a y RodrÃ­guez 2015</xref>; <xref ref-type="bibr" rid="B21">De Sena 2016</xref>).</p>
+			<p>En esta lÃ­nea, el presente escrito tiene por objetivo realizar una revisiÃ³n de la literatura que ha trabajado en torno a los Programas de Transferencias Condicionadas de Ingresos -en adelante, PTCI-, como modalidad de atenciÃ³n a la pobreza que ya cuenta con 25 aÃ±os de vigencia en la regiÃ³n alcanzando a 129,8 millones de destinatarios (<xref ref-type="bibr" rid="B11">Cecchini y Atuesta 2017</xref>). La 360 estrategia metodolÃ³gica utilizada es el anÃ¡lisis documental, persiguiendo dar cuenta de y clasificar los modos en los que el consumo aparece en los trabajos que abordan esta modalidad de asistencia, cÃ³mo se menciona, cÃ³mo aparece la articulaciÃ³n entre dicha prÃ¡ctica y las polÃ­ticas sociales, quÃ© prÃ¡cticas se le asocian, quÃ© expectativas se depositan en Ã©l y quÃ© temores. QuÃ© interpretaciones, hipÃ³tesis y normas de comportamiento esperado circulan en relaciÃ³n con el uso de las transferencias y los posibles consumos que habilitarÃ­an.</p>
+			<p>Para alcanzar el objetivo propuesto, la estrategia argumentativa es la siguiente: en primer lugar, se establecen algunos puntos de partida teÃ³ricos sobre las polÃ­ticas sociales; en segundo lugar, se desarrollan las caracterÃ­sticas de los PTCI y su relaciÃ³n con el consumo, en tanto fenÃ³meno central de los entramados actuales; en tercer lugar, se explicita la estrategia metodolÃ³gica utilizada para luego realizar el recorrido que es objeto de este trabajo, sobre las diferentes menciones y conceptualizaciones sobre el consumo en los estudios sobre PTCI. Por Ãºltimo, se esbozan algunas reflexiones a modo de cierre.</p>
+			<sec>
+				<title>Sobre las polÃ­ticas sociales y sus devenires</title>
+				<p>Ya desde la tematizaciÃ³n de la <italic>cuestiÃ³n social,</italic> se pone en escena la necesidad de sutura de aquel &quot;hiato&quot; entre la igualdad jurÃ­dica y la desigualdad econÃ³mica propio de los modos de estructuraciÃ³n social capitalista (<xref ref-type="bibr" rid="B31">Grassi 2003</xref>; <xref ref-type="bibr" rid="B43">Offe 1990</xref>; <xref ref-type="bibr" rid="B9">Castel 2009</xref>). Ese hiato ha dado lugar a la conformaciÃ³n de unos modos de intervenir sobre lo social entendidos como polÃ­ticas sociales, definidas como aquellas intervenciones del Estado implicadas en la producciÃ³n y modulaciÃ³n de las condiciones de vida y reproducciÃ³n de los diferentes grupos sociales (<xref ref-type="bibr" rid="B19">Danani 2004</xref>). Estas, con miras a suturar las tensiones y contradicciones antedichas, han colaborado con la reproducciÃ³n de los agentes bajo su cobertura con distintas modalidades a lo largo de su historia, y se han convertido en elementos centrales -a largo plazo- para la reproducciÃ³n del rÃ©gimen de acumulaciÃ³n (<xref ref-type="bibr" rid="B23">De Sena y Cena 2014</xref>).</p>
+				<p>La reproducciÃ³n de la vida y las condiciones en las cuales dicha reproducciÃ³n se materializa son el objeto central de estas intervenciones, y sus medidas o acciones comprenden una amplia gama de aspectos, como la asistencia a la pobreza en todas sus variantes (transferencias monetarias o en especie), la previsiÃ³n social, la construcciÃ³n de equipamientos sociales, subsidios y programas habitacionales, programas de asistencia al desempleo, polÃ­ticas de cuidado, entre otras (<xref ref-type="bibr" rid="B27">Faleiros 2004</xref>; Cena y <xref ref-type="bibr" rid="B58">Dettano 2019</xref>).</p>
+				<p>Todo aquello que la polÃ­tica social apunta a intervenir es previamente considerado y definido como una situaciÃ³n problemÃ¡tica que en ningÃºn caso puede ser pensada en un vacÃ­o social, sino que siempre se encuentra atravesada por aquello que en un espacio-tiempo es considerado vÃ¡lido, legÃ­timo, deseable y relacionado con las pautas culturales previamente existentes, por lo que nunca es &quot;independiente de los sujetos, condiciones y vÃ­nculos en que se expresa&quot; (<xref ref-type="bibr" rid="B52">Titmuss 1974</xref>; Donati y Lucas 1987, 64; <xref ref-type="bibr" rid="B1">Adelantado et al. 1998</xref>).</p>
+				<p>En este sentido, se las ha adjetivado como &quot;puente&quot;, entre el orden sistÃ©mico y el mundo de la vida, por desplegarse en estructuras sociales, que las afecta y que afectan. AsÃ­, nunca ajenos a los sucesos de su Ã©poca, sus diseÃ±os estÃ¡n imbuidos de los sentidos, ideas y valores de los entramados en los cuales operan a la vez que su implementaciÃ³n produce efectos e impacta en los sujetos receptores, en sus modos de sentir y vivenciar las intervenciones (Barba Solano 1995; <xref ref-type="bibr" rid="B50">Soldano y Andrenacci 2006</xref>; <xref ref-type="bibr" rid="B52">Titmuss 1974</xref>; <xref ref-type="bibr" rid="B21">De Sena 2016</xref>).</p>
+				<p>Por lo tanto, para iniciar un anÃ¡lisis sociolÃ³gico de esta forma particular de intervenciÃ³n estatal denominada polÃ­ticas sociales, se debe examinar cuÃ¡l es su objeto, sus formas de hacer, y tambiÃ©n sus justificaciones. En este sentido, si la polÃ­tica social es una forma de intervenciÃ³n de la sociedad sobre sÃ­ misma, es menester considerar la proliferaciÃ³n creciente del consumo en nuestros entramados actuales, para pensar sus vÃ­nculos y articulaciones posibles con los modos en que el Estado interviene sobre &quot;lo social&quot;.</p>
+				<sec>
+					<title>La consolidaciÃ³n de los PTCI y su vinculaciÃ³n con el consumo</title>
+					<p>A partir de los aÃ±os ochenta, en el marco de procesos que implicaron un fuerte empobrecimiento de la poblaciÃ³n, cobran relevancia ciertos debates acerca de la pertinencia o no del Estado de bienestar y las polÃ­ticas de alcance universal (<xref ref-type="bibr" rid="B43">Offe 1990</xref>), lo que comienza a articular la fundamentaciÃ³n sobre la focalizaciÃ³n como modalidad y estrategia, cuyo beneficio residirÃ­a en una utilizaciÃ³n mÃ¡s eficiente de los recursos, volcÃ¡ndolos hacia aquellos que mÃ¡s lo necesitan. En este escenario, comienza una masiva proliferaciÃ³n de intervenciones de atenciÃ³n a la poblaciÃ³n en condiciones de pobreza y/o desempleo (<xref ref-type="bibr" rid="B31">Grassi 2003</xref>; <xref ref-type="bibr" rid="B20">De Sena 2011</xref>).</p>
+					<p>Al tiempo que las iniciativas en pos de focalizar los recursos ganaban adhesiÃ³n, tambiÃ©n se iban conformando ciertas crÃ­ticas sobre las modalidades previas de atenciÃ³n a la pobreza, como las transferencias en especies. Estos rasgos, fueron perfilando y afianzando la implementaciÃ³n de las transferencias de dinero, asÃ­ como la bancarizaciÃ³n de estos sectores para efectivizar el cobro, eliminando, de este modo, los intermediarios y reduciendo los niveles de clientelismo y corrupciÃ³n (<xref ref-type="bibr" rid="B14">Cohen y Franco 2010</xref>; <xref ref-type="bibr" rid="B12">Cena 2016</xref>).</p>
+					<p>En este marco, a partir de los aÃ±os noventa se empiezan a implementar las primeras experiencias de PTCI<xref ref-type="fn" rid="fn1"><sup>1</sup></xref> propiamente dichas (Rawlings 2005; <xref ref-type="bibr" rid="B14">Cohen y Franco 2010</xref>; <xref ref-type="bibr" rid="B18">Cruces, Epele y Guardia 2008</xref>; <xref ref-type="bibr" rid="B10">Cecchini y Madariaga 2011</xref>; <xref ref-type="bibr" rid="B46">Rangel 2011</xref>; Cena 2014; 2016), tanto en AmÃ©rica Latina como en otros paÃ­ses del Sur Global. Esta modalidad de atenciÃ³n a la pobreza ha sido muy significativa por su alcance y cobertura,<xref ref-type="fn" rid="fn2"><sup>2</sup></xref> su rÃ¡pida expansiÃ³n, la cantidad de programas que se han implementado y la producciÃ³n acadÃ©mica que han suscitado (<xref ref-type="bibr" rid="B46">Rangel 2011</xref>; Cena 2014), de manera que para el 2010, ya habÃ­a 24 paÃ­ses de los cinco continentes aplicando -con diferentes escalas- uno de estos programas (<xref ref-type="bibr" rid="B15">Correa 2009</xref>; <xref ref-type="bibr" rid="B22">De Sena 2018</xref>).</p>
+					<p>Los denominados PTCI pueden ser caracterizados a grandes rasgos como una transferencia monetaria o no monetaria -depende de los autores-<xref ref-type="fn" rid="fn3"><sup>3</sup></xref> a hogares con menores a cargo (nÃºcleos familiares),<xref ref-type="fn" rid="fn4"><sup>4</sup></xref> a cambio del cumplimiento de contraprestaciones en salud, educaciÃ³n y/o nutriciÃ³n. Albergan una serie de objetivos, como reducir la pobreza por ingresos o la &quot;pobreza de consumo&quot;, evitar la reproducciÃ³n intergeneracional de la pobreza a partir de la inversiÃ³n en capital humano, colaborar en la reducciÃ³n de las desigualdades, romper el &quot;circulo vicioso&quot; de la pobreza, ayudar a los paÃ­ses a alcanzar los Objetivos de Desarrollo del Milenio asÃ­ como contribuir con la modificaciÃ³n de algunos comportamientos que pueden incidir en la proliferaciÃ³n de la pobreza, entre otros, que dependen del programa (<xref ref-type="bibr" rid="B30">Fiszbein y Schady 2009</xref>; <xref ref-type="bibr" rid="B14">Cohen y Franco 2010</xref>; <xref ref-type="bibr" rid="B10">Cecchini y Madariaga 2011</xref>; <xref ref-type="bibr" rid="B15">Correa 2009</xref>; <xref ref-type="bibr" rid="B46">Rangel 2011</xref>; <xref ref-type="bibr" rid="B12">Cena 2016</xref>).</p>
+					<p>En la actualidad se han expandido a nivel global, aplicÃ¡ndose en Asia, Ãfrica subsahariana, TurquÃ­a y hasta en los Estados Unidos (<xref ref-type="bibr" rid="B15">Correa 2009</xref>; <xref ref-type="bibr" rid="B22">De Sena 2018</xref>). Para algunos autores, estos programas &quot;minimalistas-focalizados&quot; (<xref ref-type="bibr" rid="B83">Villatoro 2007</xref>, 6) &quot;estÃ¡n de moda&quot; (<xref ref-type="bibr" rid="B32">Grondona 2017</xref>, 63) o se han convertido en la forma predilecta de abordaje de la pobreza (<xref ref-type="bibr" rid="B73">Lavinas 2014a</xref>) alcanzando para el 2016 en AmÃ©rica Latina a 29,3 millones de familias, extendiÃ©ndose a 129,8 millones de destinatarios (<xref ref-type="bibr" rid="B11">Cecchini y Atuesta 2017</xref>, 22) y significando el 0,4 % del PBI de la regiÃ³n (<xref ref-type="bibr" rid="B78">OIT 2014</xref>). La modalidad de aplicaciÃ³n de los programas varÃ­a segÃºn el paÃ­s; algunos paÃ­ses implemen-tan PTCI de alcance nacional, mientras que tambiÃ©n hay experiencias de alcance municipal (en algunos paÃ­ses, como Argentina conviven los de alcance nacional con los de alcance municipal). TambiÃ©n varÃ­a el porcentaje de PBI destinado a su aplicaciÃ³n, asÃ­ como el monto de las transferencias (<xref ref-type="bibr" rid="B30">Fiszbein y Schady 2009</xref>; <xref ref-type="bibr" rid="B83">Villatoro 2007</xref>).</p>
+					<p>Como ya mencionamos, esta modalidad de atenciÃ³n a la pobreza -los PTCI- ha suscitado numerosos anÃ¡lisis. Entre estos, una mirada posible es aquella que pone atenciÃ³n a la relaciÃ³n entre estas polÃ­ticas y las prÃ¡cticas de consumo, vuelta significativa a partir del crecimiento de las intervenciones que transfieren ingresos; los procesos de bancarizaciÃ³n de las mismas; la proliferaciÃ³n de dispositivos crediticios para estos sectores (formales e informales) y la creciente apariciÃ³n del significante &quot;consumo&quot; en las diferentes justificaciones y fundamentaciones vinculadas con la implementa-ciÃ³n de este tipo de programas (<xref ref-type="bibr" rid="B23">De Sena y Scribano 2014</xref>; <xref ref-type="bibr" rid="B16">Chahbenderian 2014</xref>; <xref ref-type="bibr" rid="B63">Dettano 2015</xref>, 2020).</p>
+					<p>Los entramados actuales vienen siendo tematizados como sociedades del capitalismo tardÃ­o (<xref ref-type="bibr" rid="B35">Jameson 2002</xref>) o sociedades de consumo (<xref ref-type="bibr" rid="B2">Alonso 2005</xref>; <xref ref-type="bibr" rid="B7">Bauman 2007</xref>; <xref ref-type="bibr" rid="B6">Baudrillard 2011</xref>; <xref ref-type="bibr" rid="B28">Featherstone 2000</xref>), en las cuales los agentes realizan la producciÃ³n y reproducciÃ³n de sus vidas cotidianas atravesados por el consumo en tanto forma de ser y estar con otros (Dettano y Lava 2014). Si bien las prÃ¡cticas de consumo pueden ser consideradas como un conjunto de decisiones propias, Ã­ntimas y personales, los diversos estudios enfocados en su anÃ¡lisis han apuntado a considerarlo como un fenÃ³meno de producciÃ³n colectiva de valores, desechando la idea del consumidor aislado que evalÃºa racionalmente en tÃ©rminos de costo-beneficio quÃ© bienes adquirir para satisfacer sus necesidades (<xref ref-type="bibr" rid="B26">Douglas y Isherwood 1990</xref>; <xref ref-type="bibr" rid="B2">Alonso 2005</xref>). Hablar de consumo, entonces, no nos restringe al terreno de las necesidades vitales ni de la reproducciÃ³n biolÃ³gica de los agentes, sino que su carÃ¡cter es eminentemente social y estÃ¡ fuertemente conectado con las formas de sentir. AsÃ­, su centralidad reside, entonces, en su capacidad para gestionar las sensibilidades, el disfrute y la soportabilidad cooperando con la atenuaciÃ³n de los conflictos sociales (<xref ref-type="bibr" rid="B23">De Sena y Scribano 2014</xref>; <xref ref-type="bibr" rid="B71">GarcÃ­a MartÃ­nez <italic>et al.</italic> 2017</xref>).</p>
+					<p>De esta forma, el consumo puede ser pensado como un proceso que atraviesa, de diferentes formas, los mundos de la vida de los sujetos en el presente siglo (<xref ref-type="bibr" rid="B48">Scribano 2015</xref>), pero tambiÃ©n, como uno de esos procesos que atraviesan y han atravesado el &quot;hacer&quot; desde el Estado (<xref ref-type="bibr" rid="B13">Cohen 2003</xref>; <xref ref-type="bibr" rid="B72">Kroen 2004</xref>; <xref ref-type="bibr" rid="B69">Fridman 2008</xref>; <xref ref-type="bibr" rid="B39">Milanesio 2014</xref>). El consumo y endeudamiento de los sectores que reciben una transferencia del Estado son un apartado de suma importancia para analizar las polÃ­ticas sociales, los procesos que las constituyen, las prÃ¡cticas que promueven y las que restringen, asÃ­ como las interpretaciones, hipÃ³tesis y normas de comportamiento esperado en relaciÃ³n con el uso de las transferencias y los posibles consumos que habilitarÃ­an (<xref ref-type="bibr" rid="B58">Dettano <italic>et al.</italic> 2019</xref>).</p>
+				</sec>
+				<sec>
+					<title>Una revisiÃ³n de las menciones y conceptualizaciones sobre el consumo en los PTCI</title>
+				</sec>
+			</sec>
+		</sec>
+		<sec sec-type="materials|methods">
+			<title>Materiales y mÃ©todos</title>
+			<p>El presente anÃ¡lisis se enmarca en una investigaciÃ³n doctoral, cuyo objetivo general fue abordar las emociones asociadas a las prÃ¡cticas de consumo de los sujetos receptores de un PTCI en la Ciudad de Buenos Aires entre los aÃ±os 2012 y 2016. Para cumplir con ese objetivo se realizaron entrevistas en profundidad a tÃ©cnicos y destinatarios de los dos principales PTCI aplicados en la ciudad mencionada. En el contexto de dicha investigaciÃ³n, comienza a cobrar forma el trabajo aquÃ­ presentado, observando cÃ³mo en los diferentes documentos consultados las menciones al consumo aparecÃ­an una y otra vez asociadas a diferentes elementos. Era posible hacerles preguntas a esos documentos, observar detenidamente la variedad de menciones al consumo que se presentaban allÃ­, por lo que se decidiÃ³ realizar un anÃ¡lisis documental (<xref ref-type="bibr" rid="B53">Valles 1997</xref>; Ruiz <xref ref-type="bibr" rid="B47">OlabuÃ©naga e Ispizua 1989</xref>). Los documentos que se revisaron fueron: artÃ­culos cientÃ­ficos que analizan los PTCI; documentos de organismos oficiales sobre los PTCI; documentos de organismos multilaterales de crÃ©dito sobre los PTCI; documentos de trabajo de institutos de investigaciÃ³n que, si no abordaban directamente los PTCI, los mencionaban en relaciÃ³n con el tema del documento y documentos de entidades financieras. Se trabajÃ³ con una grilla (presentada al final del apartado) que clasificÃ³ las diferentes menciones segÃºn cuatro ejes temÃ¡ticos.</p>
+			<sec>
+				<title>Conceptualizaciones y articulaciones entre el consumo y los PTCI</title>
+				<p>Por lo dicho, en este apartado, se realiza una revisiÃ³n que -sin pretensiones de exhaustividad- pone el acento en observar las menciones a las prÃ¡cticas de consumo que se han desplegado desde los diversos anÃ¡lisis sobre programas de transferencias de ingresos a la poblaciÃ³n en situaciÃ³n de pobreza. La revisiÃ³n de los documentos, artÃ­culos acadÃ©micos, informes de monitoreo, entre otros, permite organizar sus menciones en torno a, al menos, cuatro cuestiones: a) menciÃ³n a los PTCI como una vÃ­a para incrementar el consumo de los hogares, en pos de reducir &quot;la pobreza de consumo&quot; y alcanzar ciertos &quot;mÃ­nimos&quot;; b) dar lugar a una mayor cantidad de circulante en los bolsillos de los mÃ¡s pobres contribuyendo con el dinamismo de los mercados internos; c) el fomento de la provisiÃ³n de servicios financieros y la &quot;inclusiÃ³n financiera&quot; de la mano de la banca privada a la vez que se menciona la profundizaciÃ³n de desigualdades ya existentes; y d) las prÃ¡cticas de consumo que se materializan con las transferencias, los supuestos sobre el modo en que se destinarÃ­a el dinero y cÃ³mo modificarÃ­a ciertas disposiciones de las familias destinatarias.</p>
+				<p>a. El primer punto que se recupera tiene que ver con el objetivo de reducir la &quot;pobreza de consumo&quot; (<xref ref-type="bibr" rid="B15">Correa 2009</xref>, 75), aumentar el consumo de los hogares (<xref ref-type="bibr" rid="B37">Lopreite 2014</xref>), reducir los impactos de los momentos de crisis sobre el consumo, lo que nos permite considerar el modo en que el significante <italic>consumo</italic> hace apariciÃ³n repetidamente en las discursivas que abordan las problemÃ¡ticas de la pobreza y su asistencia, como un objetivo primordial de los PTCI. AÃºn mÃ¡s, esta apariciÃ³n del consumo se enlaza en los documentos, con el propÃ³sito de los programas de garantizar el ejercicio de la ciudadanÃ­a a partir del derecho a un ingreso.</p>
+				<p>De la mano de la circulaciÃ³n del significante consumo, aparecen incontables menciones al carÃ¡cter mÃ­nimo de las transferencias, lo que ha llevado a que se llegue a denominarlos &quot;minimalistas focalizados&quot; (<xref ref-type="bibr" rid="B83">Villatoro 2007</xref>, 6), aludiendo a que los montos transferidos son bajos, asÃ­ como tambiÃ©n es bajo el nivel de gasto por parte de los Estados, que en ningÃºn caso en la regiÃ³n supera el 0,6 % del PBI (<xref ref-type="bibr" rid="B74">Lavinas 2014b</xref>, 23). En un sentido similar, se menciona que las transferencias realizadas a las familias han respetado la conocida &quot;regla de oro&quot; del Banco Mundial, segÃºn la cual el monto transferido no debe superar entre el 23 % y el 25 % de la lÃ­nea de pobreza en funciÃ³n de no desincentivar la bÃºsqueda de empleo (Llobet y <xref ref-type="bibr" rid="B75">Minujin 2011</xref>).</p>
+				<p>De esta manera se delinea cierto carÃ¡cter minimista de las intervenciones, en contraposiciÃ³n con los numerosos objetivos que persiguen.</p>
+				<p>Otro rasgo minimista podrÃ­a considerarse cuando se destaca &quot;[...] la importancia de la focalizaciÃ³n, y su eficiencia en minimizar el desperdicio y evitar transferencias a los que no necesitan apoyo pÃºblico&quot; (BID 2000, 152 citado en <xref ref-type="bibr" rid="B82">Stein 2011</xref>, 8), evitando los denominados errores de inclusiÃ³n. Lo mÃ­nimo aparece como la forma de intervenir, asociado a varios atributos positivos, como garantizar la equidad y mejorar la calidad de vida, a la vez que habilita la pregunta -para algunos autores- acerca del impacto que tienen estos mÃ­nimos en revertir efectivamente las condiciones de quienes los perciben (<xref ref-type="bibr" rid="B46">Rangel 2011</xref>).</p>
+				<p>b. El segundo punto hace alusiÃ³n a la vinculaciÃ³n en los documentos entre los modelos de desarrollo econÃ³mico y la forma que adopta la protecciÃ³n social. En esta ligazÃ³n, los PTCI poseerÃ­an tambiÃ©n una funciÃ³n rehabilitadora, que al menos contribuirÃ­a -como objetivo implÃ­cito- con la reactivaciÃ³n del mercado interno (<xref ref-type="bibr" rid="B84">Wilkis 2014</xref>, 231). En este sentido:</p>
+				<disp-quote>
+					<p>[...] en un modelo econÃ³mico basado en el desarrollo del mercado interno, la base del crecimiento estÃ¡ garantizada por el empleo y el consumo de la clase trabajadora. Es por ello que las polÃ­ticas de transferencia de ingresos son al mismo tiempo polÃ­tica social y polÃ­tica econÃ³mica, o sea que persiguen fundamentalmente un objetivo social ligado al reconocimiento de derechos sociales, pero en la misma medida persiguen un objetivo macroeconÃ³mico, con foco en la creaciÃ³n de puestos de trabajo, el fomento de la demanda agregada y el impulso al consumo. (<xref ref-type="bibr" rid="B36">LombardÃ­a y RodrÃ­guez 2015</xref>, 7)</p>
+				</disp-quote>
+				<p>De esta manera, los PTCI, en el marco de variadas polÃ­ticas de incentivo al consumo, han sido dotados de una funciÃ³n rehabilitadora, que no solo involucraron a los sectores de mÃ¡s bajos ingresos.<xref ref-type="fn" rid="fn5"><sup>5</sup></xref> En este sentido, algunos anÃ¡lisis resaltan que la polÃ­tica pÃºblica no logrÃ³ escapar a la masificaciÃ³n del fenÃ³meno del consumo (<xref ref-type="bibr" rid="B17">Chahbenderian y Mattei 2013</xref>; <xref ref-type="bibr" rid="B60">Chahbenderian 2017</xref>; <xref ref-type="bibr" rid="B23">De Sena y Scribano 2014</xref>; <xref ref-type="bibr" rid="B81">Scribano y De Sena 2013</xref>, 2018; Dettano 2015).</p>
+				<p>Para <xref ref-type="bibr" rid="B84">Wilkis (2014)</xref>, las menciones al consumo en los PTCI constituyeron una nueva interpretaciÃ³n del dinero pÃºblico en relaciÃ³n con el dinero que iba circulando hacia los sectores mÃ¡s relegados. Esta nueva interpretaciÃ³n propuesta por el Gobierno, &quot;intentaba pasar desde una polÃ­tica de contenciÃ³n, en la que el dinero era transferido para prevenir un deterioro de las condiciones de vida, a una polÃ­tica de rehabilitaciÃ³n en la que el dinero era enmarcado en el uso positivo que tenÃ­a no solo para sus receptores, sino para el conjunto de la economÃ­a&quot; (<xref ref-type="bibr" rid="B84">Wilkis 2014</xref>, 231). A su vez, en diversos tipos de anÃ¡lisis y documentos (<xref ref-type="bibr" rid="B61">CIFRA 2014</xref>; <xref ref-type="bibr" rid="B45">PROCELAC 2013</xref>), aparece una articulaciÃ³n entre los problemas para la generaciÃ³n de empleo registrado, el bajo nivel de salarios, el aumento de la pobreza y las polÃ­ticas que el Estado implementa para dinamizar el consumo interno, de manera que este dinero rehabilitador tiene como misiÃ³n &quot;constituir un mercado interno robusto&quot; (<xref ref-type="bibr" rid="B61">CIFRA 2014</xref>, 25), para paliar las retracciones de la economÃ­a, que en el aÃ±o 2014 -para el caso Argentino- ya mostraba seÃ±ales de estancamiento.</p>
+				<p>Los PTCI en particular, entonces, contienen en sus diseÃ±os, asÃ­ como en sus justificaciones, mÃºltiples funciones que exceden el objetivo de superaciÃ³n de la pobreza por ingresos. De este modo, el consumo aparece como un elemento central en los programas de atenciÃ³n a la pobreza asociado a diferentes virtudes. Estas polÃ­ticas no solo se asocian a lo que estas intervenciones pueden producir en las vidas de quienes las perciben, sino que contribuirÃ­an con objetivos mayores, donde el consumo parece dotado de un sentido rehabilitador: &quot;Tal y como afirmÃ³ enfÃ¡ticamente un funcionario del FMI en un seminario organizado conjuntamente por la FundaciÃ³n Friedrich Ebert Stiftung y la OIT, Â«no hay economÃ­a dinÃ¡mica si no hay consumidoresÂ». En este programa, la lucha contra la pobreza y el avance del capitalismo financiero se han fusionado&quot; (<xref ref-type="bibr" rid="B73">Lavinas 2014a</xref>, 83).</p>
+				<p>c. En tercer lugar, algunas instituciones e investigadores, han elaborado estudios y anÃ¡lisis sobre los posibles impactos de los PTCI en relaciÃ³n con la participaciÃ³n de sus destinatarios en el mercado crediticio. Existen, por un lado, documentos que celebran como positiva dicha participaciÃ³n, por la posibilidad que brinda de sortear mejor las dificultades de los sujetos pobres, asÃ­ como les permitirÃ­a encauzar emprendimientos productivos, practicar el ahorro y la inversiÃ³n (<xref ref-type="bibr" rid="B30">Fiszbein y Schady 2009</xref>; <xref ref-type="bibr" rid="B8">BBVA 2011</xref>; <xref ref-type="bibr" rid="B38">Maldonado et al. 2011</xref>). Otras miradas nos acercarÃ¡n a cÃ³mo esta participaciÃ³n ha implicado nuevas desigualdades, ya que el acceso de estos sectores al mercado crediticio se da en unas condiciones usureras, que los posicionan en un lugar muy desventajoso (<xref ref-type="bibr" rid="B45">PROCELAC 2013</xref>; <xref ref-type="bibr" rid="B16">Chahbenderian 2014</xref>; 2017; Gago y <xref ref-type="bibr" rid="B70">Mezzadra 2015</xref>; <xref ref-type="bibr" rid="B76">MacÃ­as GonzÃ¡lez 2016</xref>).</p>
+				<p>En cuanto a los primeros, el BBVA ha situado que la bancarizaciÃ³n de los destinatarios de PTCI ha posibilitado un flujo estable de ingresos para los sectores mÃ¡s pobres a la vez que la prestaciÃ³n alcanza a millones de personas, lo que constituye una &quot;ventana de oportunidades&quot; para la banca privada, en tÃ©rminos de ofrecer servicios a millones de personas de bajos ingresos (<xref ref-type="bibr" rid="B8">BBVA 2011</xref>, 9).</p>
+				<p>La denominada inclusiÃ³n financiera (<xref ref-type="bibr" rid="B38">Maldonado et al. 2011</xref>, 45) sostiene el acceso al crÃ©dito como un instrumento Ãºtil para aquellos que se desempeÃ±an laboralmente de manera inestable o en la informalidad, por lo que perciben ingresos de manera irregular. Esto les permitirÃ­a suavizar los flujos de ingresos y el consumo, una mejor actuaciÃ³n ante imprevistos como desastres naturales, muertes de familiares, asÃ­ como acceder a modalidades de ahorro formal en pos de materializar emprendimientos productivos, lo que mejorarÃ­a su situaciÃ³n general. La inclusiÃ³n financiera se construye como un elemento que junto con los PTCI contribuirÃ­a al alivio de la pobreza, no solo por medio del incremento del consumo presente y la inversiÃ³n en capital humano, sino tambiÃ©n por medio de &quot;[...] la acumulaciÃ³n de activos, la inversiÃ³n productiva y el manejo de riesgos [...]&quot; (<xref ref-type="bibr" rid="B38">Maldonado <italic>et al.</italic> 2011</xref>, 1).</p>
+				<p>En la lÃ­nea contraria, <xref ref-type="bibr" rid="B16">Chahbenderian (2014)</xref> realiza un anÃ¡lisis que exhibe los vÃ­nculos entre los PTCI y los crÃ©ditos al consumo en Argentina, considerando cÃ³mo los sectores destinatarios de estas prestaciones acceden generalmente al sistema financiero informal, lo que implica una escasa o nula aplicaciÃ³n de las regulaciones sobre el mercado crediticio propio del Banco Central (en el caso argentino). Sus consecuencias mÃ¡s notables son las altas tasas de interÃ©s que pagan por estos prÃ©stamos y la generaciÃ³n de nuevas vulnerabilidades para estos sectores (<xref ref-type="bibr" rid="B16">Chahbenderian 2014</xref>; <xref ref-type="bibr" rid="B45">PROCELAC 2013)</xref>. AsÃ­, la introducciÃ³n de estos sectores al mundo de las finanzas ha sido leÃ­da como la redefiniciÃ³n constante de los lÃ­mites de la lÃ³gica de acumulaciÃ³n de capital (Gago y <xref ref-type="bibr" rid="B70">Mezzadra 2015</xref>). De acuerdo a lo que aparecÃ­a en los ejes anteriores, en relaciÃ³n con los grandes objetivos de estos programas con transferencias mÃ­nimas, aparece superpuesta una lÃ³gica financiera que ha encontrado en esto &quot;mÃ­nimo&quot; un nuevo nicho de mercado.</p>
+				<p>d. Otra menciÃ³n, alude al destino de este dinero, haciendo supuestos sobre cÃ³mo estarÃ¡ compuesto el gasto, quÃ© necesidades va a suplir, asÃ­ como ciertas conductas esperadas por parte de los destinatarios, desde la compra de alimentos mÃ¡s ricos en nutrientes, hasta la escolarizaciÃ³n de los niÃ±os, aludiendo a cambios en las valoraciones o &quot;aumentos en la conciencia&quot;. En simultÃ¡neo, se presenta como &quot;preocupante&quot; el modo en que las transferencias pueden incidir en la oferta laboral de los adultos (<xref ref-type="bibr" rid="B30">Fiszbein y Schady 2009</xref>).</p>
+				<p>De este modo, es posible visualizar cÃ³mo en las alusiones al consumo por parte de la poblaciÃ³n destinataria se intenta prever quÃ© tipo de consumos se realizarÃ¡n, asÃ­ como el modo en que una nueva fuente de ingresos podrÃ­a modificar ciertas disposiciones de las familias en cuanto al ahorro e inversiÃ³n productiva. En esta lÃ­nea: &quot;[...] el mayor ingreso permitiÃ³ a las familias superar restricciones de crÃ©dito. Segundo, el flujo estable de ingresos pudo haber causado que las familias estuviesen dispuestas a emprender inversiones mÃ¡s arriesgadas (y rentables)&quot; (<xref ref-type="bibr" rid="B30">Fiszbein y Schady 2009</xref>, 130).</p>
+				<p>Este punto y menciones adquiere mayor consistencia en los relatos de los tÃ©cnicos de este tipo de programas cuando refieren al uso de las transferencias. En estas narrativas, aparece una fuerte impronta pedagÃ³gica, una esperanza en la modificaciÃ³n de comportamientos no solo en relaciÃ³n al consumo, a la correcta utilizaciÃ³n del dinero, a la incorporaciÃ³n de hÃ¡bitos como el ahorro, sino a la modificaciÃ³n de conductas en general, como podrÃ­a ser la planificaciÃ³n familiar (<xref ref-type="bibr" rid="B58">Dettano 2019</xref>).</p>
+				<p>A su vez, tambiÃ©n se cuenta con estudios que apuntan a analizar el modo en que son llevadas adelante las prÃ¡cticas de consumo por parte de las destinatarias de los PTCI. Entre estos podemos mencionar anÃ¡lisis que dan cuenta de cÃ³mo los consumos de las mujeres receptoras de PTCI se encuentran orientados hacia el cuidado de los menores a cargo, atravesados por una fuerte regulaciÃ³n emotiva que clasifica entre buenos y malos consumos (<xref ref-type="bibr" rid="B64">Dettano 2017</xref>; 2020; Scribano y <xref ref-type="bibr" rid="B49">De Sena 2018</xref>). <xref ref-type="bibr" rid="B51">Sordini (2018)</xref>, por su parte, exhibe cÃ³mo el dinero de la transferencia se agota en muchos casos el mismo dÃ­a en que se deposita y se utiliza casi exclusivamente en alimentos, priorizando la compra de alimentos &quot;rendidores&quot; en funciÃ³n de los ingresos del hogar.</p>
+				<p>Otros autores mencionan que las destinatarias parecen acordar que el destino adecuado del dinero es el que tiene que ver con la compra de objetos para los niÃ±os y niÃ±as del hogar, a la vez que narran unas prÃ¡cticas de consumo signadas por la escasez de recursos (<xref ref-type="bibr" rid="B29">Figueiro 2013</xref>; <xref ref-type="bibr" rid="B77">Maneiro 2017</xref>; <xref ref-type="bibr" rid="B24">De Sena y Dettano, 2020</xref>).</p>
+				<p>La <xref ref-type="table" rid="t1">tabla 1</xref> busca sintetizar las principales menciones al consumo en los documentos e investigaciones que abordan los PTCI.</p>
+				<p>
+					<table-wrap id="t1">
+						<label>Tabla 1</label>
+						<caption>
+							<title>Menciones al consumo en los abordajes de los PTCI.</title>
+						</caption>
+						<graphic xlink:href="2256-5493-traso-23-02-357-gt1.png"/>
+						<table-wrap-foot>
+							<fn id="TFN1">
+								<p>Fuente: elaboraciÃ³n propia con base en la bibliografÃ­a consultada.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+			</sec>
+		</sec>
+		<sec>
+			<title>Reflexiones finales</title>
+			<p>Estudiar el consumo y las funciones que se le asignan, asÃ­ como las articulaciones donde hace apariciÃ³n, implica considerar los modos en que el Estado tiene un rol crecientemente activo en los modos de reproducciÃ³n y sostenimiento del rÃ©gimen de acumulaciÃ³n (<xref ref-type="bibr" rid="B79">Oszlak y O'Donnell 1995</xref>) y cÃ³mo la polÃ­tica pÃºblica no ha logrado escapar a la masificaciÃ³n de dicho fenÃ³meno.</p>
+			<p>Ahora bien, sus menciones -que no son pocas- permiten observar los mÃºltiples sentidos, objetivos y funciones que se depositan en esta modalidad de atenciÃ³n a la pobreza de gran alcance y cobertura. Pese al carÃ¡cter &quot;mÃ­nimo&quot; que se les atribuye, se las dota, en simultÃ¡neo, de contribuir con el mercado interno, el empoderamientola inclusiÃ³n financiera. Otros anÃ¡lisis advierten otros rasgos, como la generaciÃ³n de nuevas desigualdades, asÃ­ como los modos en que &quot;intervenir&quot; vÃ­a transferencias de ingresos consolida ciudadanos en tanto consumidores.</p>
+			<p>Las transformaciones que atravesaron las polÃ­ticas sociales -pasando de ser aquellos denominados bienes-salario a ser transferencias de ingresos orientadas a un conjunto poblacional cada vez mayor-, la pÃ©rdida de centralidad del trabajo y la proliferaciÃ³n del consumo componen un &quot;terreno&quot; donde la poblaciÃ³n en situaciÃ³n de pobreza se convierte en un nuevo sujeto para el mercado que, a partir de unas transferencias &quot;mÃ­nimas&quot;, pondrÃ­a en marcha grandes objetivos, de la mano de un Estado que -en tanto agente central- posibilita la circulaciÃ³n de estos recursos.</p>
+			<p>A la vez que se han considerado en el escrito las menciones y conceptualizaciones que aparecen en los documentos que abordan esta modalidad de atenciÃ³n a la pobreza, se vuelve relevante considerar cÃ³mo aparecen algunas prÃ¡cticas, disposiciones y moralidades. Estos (no tan) nuevos sujetos para el mercado, como podemos observar en las diferentes menciones que aparecen, no son unos consumidores ordinarios, sino que son consumidores que deben adquirir destrezas y disposiciones. Es decir, las prÃ¡cticas de consumo asociadas a los destinatarios de programas sociales vienen cargadas o compuestas de recomendaciones, moralidades asÃ­ como pautas de acciÃ³n: es bueno aprender a ahorrar, es bueno gastar en alimentos para los menores, es bueno invertir en educaciÃ³n, asÃ­ como otras conductas deseables que se expresan en los escritos revisados (<xref ref-type="bibr" rid="B58">Dettano 2019</xref>).</p>
+			<p>Con todo lo dicho, las polÃ­ticas sociales requieren ser pensadas en el marco de redes conceptuales mÃ¡s amplias, lo que implica considerar el consumo como un elemento que debe incorporarse en dichas redes y entramados conceptuales, volviÃ©ndolas elementos (aÃºn) mÃ¡s complejos. Por Ãºltimo, pensar las prÃ¡cticas de consumo de los sujetos en situaciÃ³n de pobreza, las prÃ¡cticas que se le asocian, las expectativas y los temores, plantea la apertura a nuevas lÃ­neas investigativas en el marco de las relaciones que plantean las intervenciones a los sectores en situaciÃ³n de pobreza en el siglo XXI.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Referencias bibliogrÃ¡ficas</title>
+			<ref id="B1">
+				<mixed-citation>Adelantado, JosÃ©, JosÃ© Noguera, Xavier Rambla y LuÃ­s Saez. 1998. &quot;Las relaciones entre estructura y polÃ­ticas sociales: una propuesta teÃ³rica&quot;. <italic>Revista mexicana de sociologÃ­a</italic> (3): 123-156.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Adelantado</surname>
+							<given-names>JosÃ©</given-names>
+						</name>
+						<name>
+							<surname>Noguera</surname>
+							<given-names>JosÃ©</given-names>
+						</name>
+						<name>
+							<surname>Rambla</surname>
+							<given-names>Xavier</given-names>
+						</name>
+						<name>
+							<surname>Saez</surname>
+							<given-names>LuÃ­s</given-names>
+						</name>
+					</person-group>
+					<year>1998</year>
+					<article-title>Las relaciones entre estructura y polÃ­ticas sociales: una propuesta teÃ³rica</article-title>
+					<source>Revista mexicana de sociologÃ­a</source>
+					<issue>3</issue>
+					<fpage>123</fpage>
+					<lpage>156</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Alonso, Luis Enrique. 2005. <italic>La era del consumo</italic>. Madrid: Siglo XXI Editores. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Alonso</surname>
+							<given-names>Luis Enrique</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<source>La era del consumo</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Siglo XXI Editores</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Andrenacci, Luciano. 2002. <italic>CuestiÃ³n socialy polÃ­tica social en el gran buenos aires</italic>. La Plata: Ediciones al Margen - Universidad Nacional de General Sarmiento.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Andrenacci</surname>
+							<given-names>Luciano</given-names>
+						</name>
+					</person-group>
+					<year>2002</year>
+					<source>CuestiÃ³n socialy polÃ­tica social en el gran buenos aires</source>
+					<publisher-loc>La Plata</publisher-loc>
+					<publisher-name>Ediciones al Margen - Universidad Nacional de General Sarmiento</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Antunes, Ricardo. 2005. <italic>Los sentidos del trabajo. Ensayo sobre la afirmaciÃ³n y la negaciÃ³n del trabajo</italic>. Buenos Aires: Ediciones Herramienta. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Antunes</surname>
+							<given-names>Ricardo</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<source>Los sentidos del trabajo. Ensayo sobre la afirmaciÃ³n y la negaciÃ³n del trabajo</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Ediciones Herramienta</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>ArcidiÃ¡cono, Pilar. 2017. &quot;Arreglos institucionales y mÃ¡rgenes de acciÃ³n de las burocracias en la seguridad social no contributiva: un recorrido por la AsignaciÃ³n Universal por Hijo&quot;. <italic>La trama de las polÃ­ticas sociales. Estado, saberes y territorio</italic>, 111-140. Carla Zibecchi y Pilar ArcidiÃ¡cono (coords.). Buenos Aires: Editorial Biblos.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>ArcidiÃ¡cono</surname>
+							<given-names>Pilar</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<chapter-title>Arreglos institucionales y mÃ¡rgenes de acciÃ³n de las burocracias en la seguridad social no contributiva: un recorrido por la AsignaciÃ³n Universal por Hijo</chapter-title>
+					<source>La trama de las polÃ­ticas sociales. Estado, saberes y territorio</source>
+					<fpage>111</fpage>
+					<lpage>140</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zibecchi</surname>
+							<given-names>Carla</given-names>
+						</name>
+						<name>
+							<surname>ArcidiÃ¡cono</surname>
+							<given-names>Pilar</given-names>
+						</name>
+					</person-group>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Editorial Biblos</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Baudrillard, James. 2011. <italic>La sociedad de consumo. Sus mitos, sus estructuras</italic>. EspaÃ±a: Siglo XXI Editores.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Baudrillard</surname>
+							<given-names>James</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<source>La sociedad de consumo. Sus mitos, sus estructuras</source>
+					<publisher-loc>EspaÃ±a</publisher-loc>
+					<publisher-name>Siglo XXI Editores</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Bauman, Zygmunt. 2007. <italic>Vida de consumo</italic>. Buenos Aires: Fondo de Cultura EconÃ³mica. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bauman</surname>
+							<given-names>Zygmunt</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<source>Vida de consumo</source>
+					<publisher-name>Buenos Aires</publisher-name>
+					<publisher-loc>Fondo de Cultura EconÃ³mica</publisher-loc>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>BBVA. 2011. &quot;Avanza el pago electrÃ³nico de programas sociales en AmÃ©rica Latina y el Caribe&quot;. <italic>Observatorio bancario MÃ©xico. BBVA research, servicio de estudios econÃ³micos del grupo BBVA</italic>. 1-9.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>BBVA</collab>
+					</person-group>
+					<year>2011</year>
+					<source>Avanza el pago electrÃ³nico de programas sociales en AmÃ©rica Latina y el Caribe</source>
+					<publisher-name>Observatorio bancario MÃ©xico. BBVA research, servicio de estudios econÃ³micos del grupo BBVA</publisher-name>
+					<fpage>1</fpage>
+					<lpage>9</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Castel, R. 2009. <italic>La Metamorfosis de la CuestiÃ³n Social</italic>. Buenos Aires: PaidÃ³s.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Castel</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<source>La Metamorfosis de la CuestiÃ³n Social</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>PaidÃ³s</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Cecchini, Simone y Aldo Madariaga. 2011. <italic>Programas de transferencias condicionadas. Balance de la experiencia reciente en amÃ©rica latina y el caribe</italic>. Santiago de Chile: Naciones Unidas.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cecchini</surname>
+							<given-names>Simone</given-names>
+						</name>
+						<name>
+							<surname>Madariaga</surname>
+							<given-names>Aldo</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<source>Programas de transferencias condicionadas. Balance de la experiencia reciente en amÃ©rica latina y el caribe</source>
+					<publisher-loc>Santiago de Chile</publisher-loc>
+					<publisher-name>Naciones Unidas</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Cecchini, Simone y Bernardo Atuesta. 2017. <italic>Programas de transferencias condicionadas en amÃ©rica latina y el caribe. Tendencias de cobertura e inversiÃ³n</italic>. Santiago de Chile: Naciones Unidas /CEPAL. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cecchini</surname>
+							<given-names>Simone</given-names>
+						</name>
+						<name>
+							<surname>Atuesta</surname>
+							<given-names>Bernardo</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<source>Programas de transferencias condicionadas en amÃ©rica latina y el caribe. Tendencias de cobertura e inversiÃ³n</source>
+					<publisher-loc>Santiago de Chile</publisher-loc>
+					<publisher-name>Naciones Unidas</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Cena, Rebeca. 2016. &quot;Programas de transferencias condicionadas de ingresos: hacia una problematizaciÃ³n teÃ³rica a partir del caso latinoamericano&quot;. <italic>Del ingreso universal a las transferencias condicionadas, itinerarios sinuosos</italic>, 115-137. AngÃ©lica de Sena (dir.). Buenos Aires: ESEditora. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cena</surname>
+							<given-names>Rebeca</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<chapter-title>Programas de transferencias condicionadas de ingresos: hacia una problematizaciÃ³n teÃ³rica a partir del caso latinoamericano</chapter-title>
+					<source>Del ingreso universal a las transferencias condicionadas, itinerarios sinuosos</source>
+					<fpage>115</fpage>
+					<lpage>137</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sena</surname>
+							<given-names>AngÃ©lica de</given-names>
+						</name>
+					</person-group>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>ESEditora</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Cohen, Lizabeth. 2003. <italic>Consumer's republic: the politics of mass consumption in postwar America</italic>. Nueva York: Vintage Books. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cohen</surname>
+							<given-names>Lizabeth</given-names>
+						</name>
+					</person-group>
+					<year>2003</year>
+					<source>Consumer's republic: the politics of mass consumption in postwar America</source>
+					<publisher-loc>Nueva York</publisher-loc>
+					<publisher-name>Vintage Books</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Cohen, Ernesto y Rolando Franco. 2010. &quot;Programas de transferencias condicionadas: Â¿pidiendo peras al olmo?&quot;. <italic>Persona y sociedad</italic> XXIV (3): 91-121. </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cohen</surname>
+							<given-names>Ernesto</given-names>
+						</name>
+						<name>
+							<surname>Rolando</surname>
+							<given-names>Franco</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>Programas de transferencias condicionadas: Â¿pidiendo peras al olmo?</article-title>
+					<source>Persona y sociedad</source>
+					<volume>XXIV</volume>
+					<issue>3</issue>
+					<fpage>91</fpage>
+					<lpage>121</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Correa, Norma. 2009. &quot;Programas de Transferencias Condicionadas: aportes para el debate pÃºblico&quot;. <italic>EconomÃ­a y Sociedad</italic> (71): 74-80. </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Correa</surname>
+							<given-names>Norma</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>Programas de Transferencias Condicionadas: aportes para el debate pÃºblico</article-title>
+					<source>EconomÃ­a y Sociedad</source>
+					<issue>71</issue>
+					<fpage>74</fpage>
+					<lpage>80</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Chahbenderian, Florencia. 2014. &quot;Reflexiones en torno a los programas de transferencias monetarias condicionadas y los crÃ©ditos al consumo&quot;. <italic>Las polÃ­ticas hechas cuerpo y lo social devenido emociÃ³n: lecturas sociolÃ³gicas de las polÃ­ticas sociales</italic>, 187-220. AngÃ©lica de Sena (ed.). Buenos Aires: Estudios sociolÃ³gicos Editora. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chahbenderian</surname>
+							<given-names>Florencia</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<chapter-title>Reflexiones en torno a los programas de transferencias monetarias condicionadas y los crÃ©ditos al consumo</chapter-title>
+					<source>Las polÃ­ticas hechas cuerpo y lo social devenido emociÃ³n: lecturas sociolÃ³gicas de las polÃ­ticas sociales</source>
+					<fpage>187</fpage>
+					<lpage>220</lpage>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>de Sena</surname>
+							<given-names>AngÃ©lica</given-names>
+						</name>
+					</person-group>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Estudios sociolÃ³gicos Editora</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Chahbenderian, Florencia y Rodrigo Mattei. 2013. &quot;Â¿CrÃ©dito o subsidio? Algunos aspectos introductorios de los crÃ©ditos a los que acceden las destinatarias de los programas de transferencia condicionada de ingreso&quot;. X <italic>Jornadas de SociologÃ­a</italic> 1 al 7 de julio del 2013. Facultad de Ciencias Sociales, Universidad de Buenos Aires .</mixed-citation>
+				<element-citation publication-type="confproc">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chahbenderian</surname>
+							<given-names>Florencia</given-names>
+						</name>
+						<name>
+							<surname>Mattei</surname>
+							<given-names>Rodrigo</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<source>&quot;Â¿CrÃ©dito o subsidio? Algunos aspectos introductorios de los crÃ©ditos a los que acceden las destinatarias de los programas de transferencia condicionada de ingreso&quot;</source>
+					<conf-name>XJornadas de SociologÃ­a</conf-name>
+					<conf-sponsor>Facultad de Ciencias Sociales, Universidad de Buenos Aires</conf-sponsor>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Cruces, Guillermo, NicolÃ¡s Epele y Laura Guardia. 2008. <italic>Los programas sociales y los Objetivos de Desarrollo del Milenio en Argentina</italic>. Santiago de Chile: Cepal.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cruces</surname>
+							<given-names>Guillermo</given-names>
+						</name>
+						<name>
+							<surname>Epele</surname>
+							<given-names>NicolÃ¡s</given-names>
+						</name>
+						<name>
+							<surname>Guardia</surname>
+							<given-names>Laura</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<source>Los programas sociales y los Objetivos de Desarrollo del Milenio en Argentina</source>
+					<publisher-loc>Santiago de Chile</publisher-loc>
+					<publisher-name>Cepal</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Danani, Claudia. 2004. &quot;El alfiler en la silla: sentidos, proyectos y alternativas en el debate de las polÃ­ticas sociales y de la economÃ­a social. IntroducciÃ³n&quot;. <italic>PolÃ­tica social y economÃ­a del trabajo</italic>, 9-38. Claudia Danani (comp.). Buenos Aires: UNGS/OSDE/Altamira.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Danani</surname>
+							<given-names>Claudia</given-names>
+						</name>
+					</person-group>
+					<year>2004</year>
+					<chapter-title>El alfiler en la silla: sentidos, proyectos y alternativas en el debate de las polÃ­ticas sociales y de la economÃ­a social. IntroducciÃ³n</chapter-title>
+					<source>PolÃ­tica social y economÃ­a del trabajo</source>
+					<fpage>9</fpage>
+					<lpage>38</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Danani</surname>
+							<given-names>Claudia</given-names>
+						</name>
+					</person-group>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>UNGS/OSDE/Altamira</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>De Sena, AngÃ©lica. 2011. &quot;PromociÃ³n de microemprendimientos y polÃ­ticas sociales: Â¿universalidad, focalizaciÃ³n o masividad?, una discusiÃ³n no acabada&quot;. <italic>Pensamento plural</italic> (8): 5-36. Pelotas, Brasil.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>De Sena</surname>
+							<given-names>AngÃ©lica</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>PromociÃ³n de microemprendimientos y polÃ­ticas sociales: Â¿universalidad, focalizaciÃ³n o masividad?, una discusiÃ³n no acabada&quot;</article-title>
+					<source>Pensamento plural</source>
+					<issue>8</issue>
+					<fpage>5</fpage>
+					<lpage>36</lpage>
+					<publisher-loc>Pelotas, Brasil</publisher-loc>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>______. 2016. <italic>Del ingreso universal a las transferencias condicionadas, itinerarios sinuosos.</italic> Buenos Aires: ESEditora.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>De Sena</surname>
+							<given-names>AngÃ©lica</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<source>Del ingreso universal a las transferencias condicionadas, itinerarios sinuosos</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>ESEditora</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>______. 2018. <italic>La intervenciÃ³n social en el inicio del siglo xxi: transferencias condicionadas en el orden global.</italic> Buenos Aires: ESEditora.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>De Sena</surname>
+							<given-names>AngÃ©lica</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<source>La intervenciÃ³n social en el inicio del siglo XXI: transferencias condicionadas en el orden global</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>ESEditora</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>De Sena, AngÃ©lica y Rebeca Cena. 2014. &quot;Â¿QuÃ© son las polÃ­ticas sociales? Esbozos de respuestas&quot;. <italic>Las polÃ­ticas hechas cuerpo y lo social devenido emociÃ³n: lecturas sociolÃ³gicas de las polÃ­ticas sociales</italic>, 19-50. AngÃ©lica de Sena (ed.). Buenos Aires: Estudios sociolÃ³gicos Editora .</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>De Sena</surname>
+							<given-names>AngÃ©lica</given-names>
+						</name>
+						<name>
+							<surname>Cena</surname>
+							<given-names>Rebeca</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<chapter-title>&quot;Â¿QuÃ© son las polÃ­ticas sociales? Esbozos de respuestas&quot;</chapter-title>
+					<source>Las polÃ­ticas hechas cuerpo y lo social devenido emociÃ³n: lecturas sociolÃ³gicas de las polÃ­ticas sociales</source>
+					<fpage>19</fpage>
+					<lpage>50</lpage>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>de Sena</surname>
+							<given-names>AngÃ©lica</given-names>
+						</name>
+					</person-group>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Estudios sociolÃ³gicos Editora</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>De Sena, AngÃ©lica. y Dettano, Andrea. 2020. &quot;AtenciÃ³n a la pobreza y consumo: las intervenciones del &quot;no alcanza&quot;. TopografÃ­as del consumo. (Pp. 139-178). Dettano, A. (Comp.) Buenos Aires: Estudios sociolÃ³gicos Editora . </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>De Sena</surname>
+							<given-names>AngÃ©lica</given-names>
+						</name>
+						<name>
+							<surname>Dettano</surname>
+							<given-names>Andrea</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<chapter-title>AtenciÃ³n a la pobreza y consumo: las intervenciones del &quot;no alcanza</chapter-title>
+					<source>TopografÃ­as del consumo</source>
+					<fpage>139</fpage>
+					<lpage>178</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dettano</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Estudios sociolÃ³gicos Editora</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Donati, Pierpaolo y Antonio Lucas. 1987. &quot;La polÃ­tica social en el estado de bienestar: el desafÃ­o de los sistemas complejos&quot;. <italic>Reis</italic> (37): 57-68. </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pierpaolo</surname>
+							<given-names>Donati</given-names>
+						</name>
+						<name>
+							<surname>Lucas</surname>
+							<given-names>Antonio</given-names>
+						</name>
+					</person-group>
+					<year>1987</year>
+					<article-title>La polÃ­tica social en el estado de bienestar: el desafÃ­o de los sistemas complejos</article-title>
+					<source>Reis</source>
+					<issue>37</issue>
+					<fpage>57</fpage>
+					<lpage>68</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Douglas, Mary y Baron Isherwood. 1990. <italic>El mundo de los bienes: hacia una antropologÃ­a del consumo</italic>. Ciudad de MÃ©xico: Grijalbo. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Douglas</surname>
+							<given-names>Mary</given-names>
+						</name>
+						<name>
+							<surname>Isherwood</surname>
+							<given-names>Baron</given-names>
+						</name>
+					</person-group>
+					<year>1990</year>
+					<source>El mundo de los bienes: hacia una antropologÃ­a del consumo</source>
+					<publisher-loc>Ciudad de MÃ©xico</publisher-loc>
+					<publisher-name>Grijalbo</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Faleiros, Vicente de Paula. 2004. &quot;Las funciones de la polÃ­tica social en el capitalismo&quot;. <italic>La polÃ­tica social hoy</italic>, 43-70. Elisabeth Borgianni y Carlos MontaÃ±o (comps.). Sao Paulo: Cortez editora.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Faleiros</surname>
+							<given-names>Vicente de Paula</given-names>
+						</name>
+					</person-group>
+					<year>2004</year>
+					<chapter-title>Las funciones de la polÃ­tica social en el capitalismo</chapter-title>
+					<source>La polÃ­tica social hoy</source>
+					<fpage>43</fpage>
+					<lpage>70</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Borgianni</surname>
+							<given-names>Elisabeth</given-names>
+						</name>
+						<name>
+							<surname>MontaÃ±o</surname>
+							<given-names>Carlos</given-names>
+						</name>
+					</person-group>
+					<publisher-loc>Sao Paulo</publisher-loc>
+					<publisher-name>Cortez editora</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Featherstone, Mike. 2000. <italic>Cultura de consumo y posmodernismo</italic>. Buenos Aires: Amorrortu.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Featherstone</surname>
+							<given-names>Mike</given-names>
+						</name>
+					</person-group>
+					<year>2000</year>
+					<source>Cultura de consumo y posmodernismo</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Amorrortu</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Figueiro, Pablo. 2013. <italic>LÃ³gicas sociales del consumo: elgasto improductivo en un asentamiento bonaerense</italic>. San MartÃ­n: UNSAM EDITA. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Figueiro</surname>
+							<given-names>Pablo</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<source>LÃ³gicas sociales del consumo: elgasto improductivo en un asentamiento bonaerense</source>
+					<publisher-loc>San MartÃ­n</publisher-loc>
+					<publisher-name>UNSAM EDITA</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Fiszbein, Ariel y Norbert Schady. 2009. &quot;Panorama general. Transferencias monetarias condicionadas. Reduciendo la pobreza actual y futura&quot;. Washington, DC: Banco internacional de ReconstrucciÃ³n y Fomento / Banco Mundial. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fiszbein</surname>
+							<given-names>Ariel</given-names>
+						</name>
+						<name>
+							<surname>Schady</surname>
+							<given-names>Norbert</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<source>Panorama general. Transferencias monetarias condicionadas. Reduciendo la pobreza actual y futura</source>
+					<publisher-loc>Washington, DC</publisher-loc>
+					<publisher-name>Banco internacional de ReconstrucciÃ³n y Fomento / Banco Mundial</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Grassi, Estela. 2003. <italic>PolÃ­ticas y problemas sociales en la sociedad neoliberal. La otra dÃ©cada infame (i)</italic>. Buenos Aires: Espacio editorial.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Grassi</surname>
+							<given-names>Estela</given-names>
+						</name>
+					</person-group>
+					<year>2003</year>
+					<source>PolÃ­ticas y problemas sociales en la sociedad neoliberal. La otra dÃ©cada infame (i)</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Espacio editorial</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation>Grondona, Ana. 2017. &quot;La AsignaciÃ³n Universal por Hijo y sus pasados. Reflexiones desde una historia del presente&quot;. <italic>La trama de las polÃ­ticas sociales. Estado, saberes y territorio</italic>, 61-82. Carla Zibecchi y Pilar ArcidiÃ¡cono (coords.). Buenos Aires: Editorial Biblos .</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Grondona</surname>
+							<given-names>Ana.</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<chapter-title>La AsignaciÃ³n Universal por Hijo y sus pasados. Reflexiones desde una historia del presente</chapter-title>
+					<source>La trama de las polÃ­ticas sociales. Estado, saberes y territorio</source>
+					<fpage>61</fpage>
+					<lpage>82</lpage>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Editorial Biblos</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation>Harvey, David. 2008. <italic>La condiciÃ³n de la postmodernidad. InvestigaciÃ³n sobre los orÃ­genes del cambio cultural</italic>. Buenos aires: Amorrortu.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Harvey</surname>
+							<given-names>David</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<source>La condiciÃ³n de la postmodernidad. InvestigaciÃ³n sobre los orÃ­genes del cambio cultural</source>
+					<publisher-loc>Buenos aires</publisher-loc>
+					<publisher-name>Amorrortu</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B34">
+				<mixed-citation>IPYPP (Instituto Pensamiento y PolÃ­ticas PÃºblicas). 2015. <italic>AnÃ¡lisis del mercado laboral y las condiciones de vida en 2014</italic>. Claudio Lozano y TomÃ¡s Raffo (coords.).</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>IPYPP (Instituto Pensamiento y PolÃ­ticas PÃºblicas)</collab>
+					</person-group>
+					<year>2015</year>
+					<source>AnÃ¡lisis del mercado laboral y las condiciones de vida en 2014</source>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lozano</surname>
+							<given-names>Claudio</given-names>
+						</name>
+						<name>
+							<surname>Raffo</surname>
+							<given-names>TomÃ¡s</given-names>
+						</name>
+					</person-group>
+				</element-citation>
+			</ref>
+			<ref id="B35">
+				<mixed-citation>Jameson, Frederic. 2002. <italic>El giro cultural</italic>. Buenos Aires: Manantial. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jameson</surname>
+							<given-names>Frederic</given-names>
+						</name>
+					</person-group>
+					<year>2002</year>
+					<source>El giro cultural</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Manantial</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B36">
+				<mixed-citation>LombardÃ­a, M. y K. RodrÃ­guez. (2015) &quot;La experiencia argentina en polÃ­ticas de transferencias monetarias durante la Ãºltima dÃ©cada&quot;. Documento de trabajo â„–07. SecretarÃ­a de polÃ­tica econÃ³mica y planificaciÃ³n del desarrollo. Ministerio de EconomÃ­a de la NaciÃ³n. Buenos Aires.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>LombardÃ­a</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>RodrÃ­guez</surname>
+							<given-names>K.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<source>La experiencia argentina en polÃ­ticas de transferencias monetarias durante la Ãºltima dÃ©cada&quot;. Documento de trabajo â„–07</source>
+					<publisher-name>SecretarÃ­a de polÃ­tica econÃ³mica y planificaciÃ³n del desarrollo. Ministerio de EconomÃ­a de la NaciÃ³n</publisher-name>
+					<publisher-loc>Buenos Aires</publisher-loc>
+				</element-citation>
+			</ref>
+			<ref id="B37">
+				<mixed-citation>Lopreite, Debora. 2014. &quot;Estado, gÃ©nero y bienestar en la argentina: un enfoque desde el neoinstitucionalismo histÃ³rico&quot;. <italic>Perspectivas sobre el estado. Las polÃ­ticas pÃºblicas y la gestiÃ³n</italic>. 96-107. Buenos Aires Jefatura de Gabinete de Ministros.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lopreite</surname>
+							<given-names>Debora</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Estado, gÃ©nero y bienestar en la argentina: un enfoque desde el neoinstitucionalismo histÃ³rico</article-title>
+					<source>Perspectivas sobre el estado. Las polÃ­ticas pÃºblicas y la gestiÃ³n</source>
+					<fpage>96</fpage>
+					<lpage>107</lpage>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Jefatura de Gabinete de Ministros</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B38">
+				<mixed-citation>Maldonado, Jorge, RocÃ­o del Pilar Moreno, Isabel Giraldo PÃ©rez y Camila Andrea Barrera Orjuela. 2011. <italic>Programas de transferencias monetarias condicionadas e inclusiÃ³n financiera: oportunidades y desafÃ­os en amÃ©rica latina</italic>. BogotÃ¡: IDRC-CRDI.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Maldonado</surname>
+							<given-names>Jorge</given-names>
+						</name>
+						<name>
+							<surname>Moreno</surname>
+							<given-names>RocÃ­o del Pilar</given-names>
+						</name>
+						<name>
+							<surname>Giraldo PÃ©rez</surname>
+							<given-names>Isabel</given-names>
+						</name>
+						<name>
+							<surname>Barrera Orjuela</surname>
+							<given-names>Camila Andrea</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<source>Programas de transferencias monetarias condicionadas e inclusiÃ³n financiera: oportunidades y desafÃ­os en amÃ©rica latina</source>
+					<publisher-loc>BogotÃ¡</publisher-loc>
+					<publisher-name>IDRC-CRDI</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B39">
+				<mixed-citation>Milanesio, Natalia. 2014. <italic>Cuando los trabajadores salieron de compras. Nuevos consumidores, publicidad y cambio cultural durante elprimer peronismo</italic>. Buenos Aires: Siglo XXI Editores.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Milanesio</surname>
+							<given-names>Natalia</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<source>Cuando los trabajadores salieron de compras. Nuevos consumidores, publicidad y cambio cultural durante elprimer peronismo</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Siglo XXI Editores</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B40">
+				<mixed-citation>MPT. 2011. &quot;Programa ciudadanÃ­a porteÃ±a Â¿con todo derecho?: fortalezas y debilidades de las transferencias monetarias condicionadas focalizadas en niÃ±os, niÃ±as y adolescentes&quot;. ColecciÃ³n: de incapaces a sujetos de derechos. Ministerio pÃºblico tutelar de la ciudad autÃ³noma de buenos aires. Buenos Aires: Eudeba.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>MPT</collab>
+					</person-group>
+					<year>2011</year>
+					<source>Programa ciudadanÃ­a porteÃ±a Â¿con todo derecho?: fortalezas y debilidades de las transferencias monetarias condicionadas focalizadas en niÃ±os, niÃ±as y adolescentes&quot;. ColecciÃ³n: de incapaces a sujetos de derechos. Ministerio pÃºblico tutelar de la ciudad autÃ³noma de buenos aires</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Eudeba</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B41">
+				<mixed-citation>Neffa, Julio Cesar y Enrique de la Garza Toledo. 2010. &quot;Modelos econÃ³micos, modelo productivo y estrategias de ganancia: conceptos y problematizaciÃ³n&quot;. <italic>Trabajo y modelos productivos en amÃ©rica latina. Argentina, Brasil, Colombia, MÃ©xico y Venezuela luego de las crisis del modo de desarrollo neoliberal</italic>, 15-33. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Julio Cesar</surname>
+							<given-names>Neffa</given-names>
+						</name>
+						<name>
+							<surname>de la Garza Toledo</surname>
+							<given-names>Enrique</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<chapter-title>Modelos econÃ³micos, modelo productivo y estrategias de ganancia: conceptos y problematizaciÃ³n</chapter-title>
+					<source>Trabajo y modelos productivos en amÃ©rica latina. Argentina, Brasil, Colombia, MÃ©xico y Venezuela luego de las crisis del modo de desarrollo neoliberal</source>
+					<fpage>15</fpage>
+					<lpage>33</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B42">
+				<mixed-citation>Erique de la Garza Toledo y Julio CÃ©sar Neffa (comps.). Buenos Aires: CLACSO.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>de la Garza Toledo</surname>
+							<given-names>Erique</given-names>
+						</name>
+						<name>
+							<surname>Neffa</surname>
+							<given-names>Julio CÃ©sar</given-names>
+						</name>
+					</person-group>
+					<source>Buenos Aires: CLACSO</source>
+				</element-citation>
+			</ref>
+			<ref id="B43">
+				<mixed-citation>Offe, Claus. 1990. <italic>EconomÃ­a social contradicciones en el estado de bienestar</italic>. Madrid: Editorial Alianza.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Offe</surname>
+							<given-names>Claus</given-names>
+						</name>
+					</person-group>
+					<year>1990</year>
+					<source>EconomÃ­a social contradicciones en el estado de bienestar</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Editorial Alianza</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B44">
+				<mixed-citation>Pautassi, Laura. 1995. &quot;Â¿Primero... Las damas? La situaciÃ³n de la mujer frente a la propuesta de ingreso ciudadano&quot;. C<italic>ontra la exclusiÃ³n. La propuesta de ingreso ciudadano</italic>. 46-70. RubÃ©n Lo Vuolo, Albeto Barbeito, Roberto Gargarella, Claus Offe, FÃ©lix Ovejero Lucas, Laura Pautassi y Philippe Van Parijs. Buenos Aires: CIEPP / MiÃ±o y DÃ¡vila.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pautassi</surname>
+							<given-names>Laura</given-names>
+						</name>
+					</person-group>
+					<year>1995</year>
+					<chapter-title>&quot;Â¿Primero... Las damas? La situaciÃ³n de la mujer frente a la propuesta de ingreso ciudadano</chapter-title>
+					<source>C<italic>ontra la exclusiÃ³n. La propuesta de ingreso ciudadano</italic></source>
+					<fpage>46</fpage>
+					<lpage>70</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lo Vuolo</surname>
+							<given-names>RubÃ©n</given-names>
+						</name>
+						<name>
+							<surname>Barbeito</surname>
+							<given-names>Albeto</given-names>
+						</name>
+						<name>
+							<surname>Gargarella</surname>
+							<given-names>Roberto</given-names>
+						</name>
+						<name>
+							<surname>Offe</surname>
+							<given-names>Claus</given-names>
+						</name>
+						<name>
+							<surname>Lucas</surname>
+							<given-names>FÃ©lix Ovejero</given-names>
+						</name>
+						<name>
+							<surname>Pautassi</surname>
+							<given-names>Laura</given-names>
+						</name>
+						<name>
+							<surname>Parijs</surname>
+							<given-names>Philippe Van</given-names>
+						</name>
+					</person-group>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>CIEPP / MiÃ±o y DÃ¡vila</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B45">
+				<mixed-citation>PROCELAC. 2013. <italic>CrÃ©ditos para el consumo. AnÃ¡lisis del fenÃ³meno socioeconÃ³mico y su impacto en los sectores populares</italic>. Buenos Aires: ProcuradurÃ­a de criminalidad econÃ³mica y lavado de activos, Ministerio pÃºblico fiscal y ProcuraciÃ³n general de la naciÃ³n.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>PROCELAC</collab>
+					</person-group>
+					<year>2013</year>
+					<source>CrÃ©ditos para el consumo. AnÃ¡lisis del fenÃ³meno socioeconÃ³mico y su impacto en los sectores populares</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>ProcuradurÃ­a de criminalidad econÃ³mica y lavado de activos, Ministerio pÃºblico fiscal y ProcuraciÃ³n general de la naciÃ³n</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B46">
+				<mixed-citation>Rangel, Marta. 2011. &quot;Pobreza rural y los programas de transferencias condicionadas en AmÃ©rica Latina y el Caribe&quot;. <italic>Documento de trabajo 3, Proyecto conocimiento y cambio en pobreza rural y desarrollo</italic>, 1-49. Santiago de Chile: Rimisp.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rangel</surname>
+							<given-names>Marta</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<chapter-title>Pobreza rural y los programas de transferencias condicionadas en AmÃ©rica Latina y el Caribe</chapter-title>
+					<source>Documento de trabajo 3, Proyecto conocimiento y cambio en pobreza rural y desarrollo</source>
+					<fpage>1</fpage>
+					<lpage>49</lpage>
+					<publisher-loc>Santiago de Chile</publisher-loc>
+					<publisher-name>Rimisp</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B47">
+				<mixed-citation>Ruiz OlabuÃ©naga, JosÃ© Ignacio y MarÃ­a Antonia Ispizua. 1989. <italic>La descodificaciÃ³n de la vida cotidiana</italic>. Bilbao: Universidad de Deusto.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>OlabuÃ©naga</surname>
+							<given-names>Ruiz</given-names>
+						</name>
+						<name>
+							<surname>Ignacio</surname>
+							<given-names>JosÃ©</given-names>
+						</name>
+						<name>
+							<surname>Ispizua</surname>
+							<given-names>MarÃ­a Antonia</given-names>
+						</name>
+					</person-group>
+					<year>1989</year>
+					<source>La descodificaciÃ³n de la vida cotidiana</source>
+					<publisher-loc>Bilbao</publisher-loc>
+					<publisher-name>Universidad de Deusto</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B48">
+				<mixed-citation>Scribano, AdriÃ¡n. 2015. Â¡DisfrÃºtalo! Una aproximaciÃ³n a la economÃ­a polÃ­tica de la moral desde el consumo. Buenos Aires: elaleph.com</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Scribano</surname>
+							<given-names>AdriÃ¡n</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<source>DisfrÃºtalo! Una aproximaciÃ³n a la economÃ­a polÃ­tica de la moral desde el consumo</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>elaleph.com</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B49">
+				<mixed-citation>Scribano, AdriÃ¡n y AngÃ©lica de Sena. 2018. &quot;La ayuda como eje central de las polÃ­ticas de la sensibilidad de las transferencias condicionadas de ingresos&quot;. <italic>La intervenciÃ³n social en el inicio del siglo XXI: transferencias condicionadas en el orden global</italic>, 253-283. AngÃ©lica de Sena (comp.). Buenos Aires: ESEditora .</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Scribano</surname>
+							<given-names>AdriÃ¡n</given-names>
+						</name>
+						<name>
+							<surname>Sena</surname>
+							<given-names>AngÃ©lica de</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<chapter-title>La ayuda como eje central de las polÃ­ticas de la sensibilidad de las transferencias condicionadas de ingresos</chapter-title>
+					<source>La intervenciÃ³n social en el inicio del siglo XXI: transferencias condicionadas en el orden global</source>
+					<fpage>253</fpage>
+					<lpage>283</lpage>
+					<name>
+						<surname>Sena</surname>
+						<given-names>AngÃ©lica de</given-names>
+					</name>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>ESEditora</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B50">
+				<mixed-citation>Soldano, Daniela y Luciano Andrenacci. 2006. &quot;AproximaciÃ³n a las teorÃ­as de la polÃ­tica social a partir del caso argentino&quot;. <italic>Problemas de polÃ­tica social en la argentina contemporÃ¡nea</italic>. 17-80. Luciano Andrenacci (comp.). Buenos Aires, UNGS-editorial Prometeo.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Soldano</surname>
+							<given-names>Daniela</given-names>
+						</name>
+						<name>
+							<surname>Andrenacci</surname>
+							<given-names>Luciano</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<chapter-title>AproximaciÃ³n a las teorÃ­as de la polÃ­tica social a partir del caso argentino</chapter-title>
+					<source>Problemas de polÃ­tica social en la argentina contemporÃ¡nea</source>
+					<fpage>17</fpage>
+					<lpage>80</lpage>
+					<name>
+						<surname>Andrenacci</surname>
+						<given-names>Luciano</given-names>
+					</name>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>UNGS-editorial Prometeo</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B51">
+				<mixed-citation>Sordini, MarÃ­a Victoria. 2018. &quot;Las transferencias monetarias de ingresos y el consumo de alimentos en ciudad autÃ³noma de buenos aires, argentina&quot;. <italic>La intervenciÃ³n social del siglo XXI: transferencias condicionadas en el orden global</italic>, 209-230. AngÃ©lica de Sena . (edit.). Buenos Aires: Estudios sociolÃ³gicos Editora .</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sordini</surname>
+							<given-names>MarÃ­a Victoria</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<chapter-title>Las transferencias monetarias de ingresos y el consumo de alimentos en ciudad autÃ³noma de buenos aires, argentina</chapter-title>
+					<source>La intervenciÃ³n social del siglo XXI: transferencias condicionadas en el orden global</source>
+					<fpage>209</fpage>
+					<lpage>230</lpage>
+					<name>
+						<surname>Sena</surname>
+						<given-names>AngÃ©lica de</given-names>
+					</name>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Estudios sociolÃ³gicos Editora</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B52">
+				<mixed-citation>Titmuss, Richard. 1974. <italic>PolÃ­tica social</italic>. Barcelona: Ariel.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Titmuss</surname>
+							<given-names>Richard</given-names>
+						</name>
+					</person-group>
+					<year>1974</year>
+					<source>PolÃ­tica social</source>
+					<publisher-loc>Barcelona</publisher-loc>
+					<publisher-name>Ariel</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B53">
+				<mixed-citation>Valles, Miguel. 1997. <italic>TÃ©cnicas cualitativas de investigaciÃ³n social</italic>. Madrid: SÃ­ntesis.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Valles</surname>
+							<given-names>Miguel</given-names>
+						</name>
+					</person-group>
+					<year>1997</year>
+					<source>TÃ©cnicas cualitativas de investigaciÃ³n social</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>SÃ­ntesis</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B54">
+				<mixed-citation>Wilkis, Ariel y MartÃ­n Hornes. 2017. &quot;Dinero, moral y poder: el enraizamiento de los programas de transferencias monetarias en la vida familiar&quot;. <italic>La trama de las polÃ­ticas sociales. Estado, saberes y territorio</italic>. 169-192. Carla Zibecchi y Pilar ArcidiÃ¡cono. (coords.). Buenos Aires: Editorial Biblos . </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wilkis</surname>
+							<given-names>Ariel</given-names>
+						</name>
+						<name>
+							<surname>Hornes</surname>
+							<given-names>MartÃ­n</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<chapter-title>Dinero, moral y poder: el enraizamiento de los programas de transferencias monetarias en la vida familiar</chapter-title>
+					<source>La trama de las polÃ­ticas sociales. Estado, saberes y territorio</source>
+					<fpage>169</fpage>
+					<lpage>192</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zibecchi</surname>
+							<given-names>Carla</given-names>
+						</name>
+						<name>
+							<surname>ArcidiÃ¡cono</surname>
+							<given-names>Pilar</given-names>
+						</name>
+					</person-group>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Editorial Biblos</publisher-name>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<ref-list>
+			<title>Referencias en lÃ­nea</title>
+			<ref id="B55">
+				<mixed-citation>Barba solano, Carlos. 1995. &quot;La polÃ­tica social desde una perspectiva sociolÃ³gica&quot;. <italic>Espiral</italic> 2 (4): 27-41. Universidad de Guadalajara, MÃ©xico. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/pdf/138/13820403. pdf">https://www.redalyc.org/pdf/138/13820403. pdf</ext-link>
+					</comment> (04 de marzo del 2012).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Barba solano</surname>
+							<given-names>Carlos</given-names>
+						</name>
+					</person-group>
+					<year>1995</year>
+					<article-title>La polÃ­tica social desde una perspectiva sociolÃ³gica</article-title>
+					<source>Espiral</source>
+					<volume>2</volume>
+					<issue>4</issue>
+					<fpage>27</fpage>
+					<lpage>41</lpage>
+					<publisher-name>Universidad de Guadalajara</publisher-name>
+					<publisher-loc>MÃ©xico</publisher-loc>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/pdf/138/13820403. pdf">https://www.redalyc.org/pdf/138/13820403. pdf</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2012-03-04">04 de marzo del 2012</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B56">
+				<mixed-citation>Castilla, MarÃ­a Victoria. 2014. &quot;Maternidad y polÃ­tica social: experiencias y sentidos atribuidos a los ingresos monetarios percibidos por el programa 'ciudadanÃ­a porteÃ±a'&quot;. <italic>PoblaciÃ³n y sociedad</italic> 21 (I): 33-59. San Miguel de TucumÃ¡n, Argentina. <comment>
+						<ext-link ext-link-type="uri" xlink:href="http://ppct.caicyt.gov.ar/index.php/pys/article/view/2805">http://ppct.caicyt.gov.ar/index.php/pys/article/view/2805</ext-link>
+					</comment> (04 de marzo del 2015).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Castilla</surname>
+							<given-names>MarÃ­a Victoria</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Maternidad y polÃ­tica social: experiencias y sentidos atribuidos a los ingresos monetarios percibidos por el programa 'ciudadanÃ­a porteÃ±a</article-title>
+					<source>PoblaciÃ³n y sociedad</source>
+					<volume>21</volume>
+					<issue>I</issue>
+					<fpage>33</fpage>
+					<lpage>59</lpage>
+					<publisher-loc>San Miguel de TucumÃ¡n, Argentina</publisher-loc>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="http://ppct.caicyt.gov.ar/index.php/pys/article/view/2805">http://ppct.caicyt.gov.ar/index.php/pys/article/view/2805</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2015-03-04">04 de marzo del 2015</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B57">
+				<mixed-citation>Cena, Rebeca. 2014. &quot;Programas de transferencias condicionadas de ingresos y programas de empleo en argentina: entre la responsabilizaciÃ³n de los destinatarios y la individuaciÃ³n de la cuestiÃ³n social&quot;. <italic>BoletÃ­n cientÃ­fico sapiens research</italic> 4 (I): 3-8. Venezuela. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.srg.com.co/bcsr/index.php/bcsr/article/view/65/56">https://www.srg.com.co/bcsr/index.php/bcsr/article/view/65/56</ext-link>
+					</comment> (07 de junio del 2015).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cena</surname>
+							<given-names>Rebeca</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Programas de transferencias condicionadas de ingresos y programas de empleo en argentina: entre la responsabilizaciÃ³n de los destinatarios y la individuaciÃ³n de la cuestiÃ³n social</article-title>
+					<source>BoletÃ­n cientÃ­fico sapiens research</source>
+					<volume>4</volume>
+					<issue>I</issue>
+					<fpage>3</fpage>
+					<lpage>8</lpage>
+					<publisher-loc>Venezuela</publisher-loc>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.srg.com.co/bcsr/index.php/bcsr/article/view/65/56">https://www.srg.com.co/bcsr/index.php/bcsr/article/view/65/56</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2015-06-07">07 de junio del 2015</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B58">
+				<mixed-citation>Cena, Rebeca y Andrea Dettano. 2019. &quot;PolÃ­ticas sociales, sensibilidades, cuerpos y emociones: los recorridos de una perspectiva. Aproximaciones teÃ³rico-metodolÃ³gicas.&quot; <italic>Revista Onteaiken</italic> (28): 1-10. <comment>
+						<ext-link ext-link-type="uri" xlink:href="http://onteaiken.com.ar/boletin-no-28">http://onteaiken.com.ar/boletin-no-28</ext-link>
+					</comment> (27 de abril del 2020).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cena</surname>
+							<given-names>Rebeca</given-names>
+						</name>
+						<name>
+							<surname>Dettano</surname>
+							<given-names>Andrea</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>PolÃ­ticas sociales, sensibilidades, cuerpos y emociones: los recorridos de una perspectiva. Aproximaciones teÃ³rico-metodolÃ³gicas</article-title>
+					<source>Revista Onteaiken</source>
+					<issue>28</issue>
+					<fpage>1</fpage>
+					<lpage>10</lpage>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="http://onteaiken.com.ar/boletin-no-28">http://onteaiken.com.ar/boletin-no-28</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2020-04-27">27 de abril del 2020</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B59">
+				<mixed-citation>Chahbenderian, Florencia. 2015. &quot;La financiarizaciÃ³n de los pobres en amÃ©rica latina: una aproximaciÃ³n desde las imÃ¡genes del mundo que crean los organismos multilaterales de crÃ©dito&quot;. <italic>Sentidos y sensibilidades: exploraciones sociolÃ³gicas sobre cuerpos/emociones</italic>, 97-120. Rafael SÃ¡nchez Aguirre (comp.). Buenos Aires: Estudios sociolÃ³gicos Editora. <comment>
+						<ext-link ext-link-type="uri" xlink:href="http://estudiosociologicos.org/portal/sentidos-y-sensibilidades-exploraciones-sociologicas-sobre-cuerposemociones/">http://estudiosociologicos.org/portal/sentidos-y-sensibilidades-exploraciones-sociologicas-sobre-cuerposemociones/</ext-link>
+					</comment> (12 de abril del 2018).</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chahbenderian</surname>
+							<given-names>Florencia</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<chapter-title>La financiarizaciÃ³n de los pobres en amÃ©rica latina: una aproximaciÃ³n desde las imÃ¡genes del mundo que crean los organismos multilaterales de crÃ©dito</chapter-title>
+					<source>Sentidos y sensibilidades: exploraciones sociolÃ³gicas sobre cuerpos/emociones</source>
+					<fpage>97</fpage>
+					<lpage>120</lpage>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Aguirre</surname>
+							<given-names>Rafael SÃ¡nchez</given-names>
+						</name>
+					</person-group>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Estudios sociolÃ³gicos Editora</publisher-name>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="http://estudiosociologicos.org/portal/sentidos-y-sensibilidades-exploraciones-sociologicas-sobre-cuerposemociones/">http://estudiosociologicos.org/portal/sentidos-y-sensibilidades-exploraciones-sociologicas-sobre-cuerposemociones/</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2018-04-12">12 de abril del 2018</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B60">
+				<mixed-citation>______. 2017 &quot;CrÃ©ditos y transferencias: una reflexiÃ³n en torno a la expansiÃ³n del consumo en AmÃ©rica Latina&quot;. <italic>Revista novos rumos sociolÃ³gicos</italic> 5 (8): 72-91. Pelotas, Brasil. <ext-link ext-link-type="uri" xlink:href="https://periodicos.ufpel.edu.br/ojs2/index.php/norus/article/view/12586">https://periodicos.ufpel.edu.br/ojs2/index.php/norus/article/view/12586</ext-link> (02 de febrero del 2018).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chahbenderian</surname>
+							<given-names>Florencia</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>CrÃ©ditos y transferencias: una reflexiÃ³n en torno a la expansiÃ³n del consumo en AmÃ©rica Latina</article-title>
+					<source>Revista novos rumos sociolÃ³gicos</source>
+					<volume>5</volume>
+					<issue>8</issue>
+					<fpage>72</fpage>
+					<lpage>91</lpage>
+					<publisher-loc>Pelotas, Brasil</publisher-loc>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://periodicos.ufpel.edu.br/ojs2/index.php/norus/article/view/12586">https://periodicos.ufpel.edu.br/ojs2/index.php/norus/article/view/12586</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2018-02-02">02 de febrero del 2018</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B61">
+				<mixed-citation>CIFRA. 2014. &quot;Informe de Coyuntura 16&quot;. Eduardo M. Basualdo (coord.). <comment>
+						<ext-link ext-link-type="uri" xlink:href="http://www.centrocifra.org.ar/docs/IC%20Nro.%2016%20.pdf">http://www.centrocifra.org.ar/docs/IC%20Nro.%2016%20.pdf</ext-link>
+					</comment> (05 de abril del 2015).</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>CIFRA</collab>
+					</person-group>
+					<year>2014</year>
+					<source>Informe de Coyuntura 16</source>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Basualdo</surname>
+							<given-names>Eduardo M.</given-names>
+						</name>
+					</person-group>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="http://www.centrocifra.org.ar/docs/IC%20Nro.%2016%20.pdf">http://www.centrocifra.org.ar/docs/IC%20Nro.%2016%20.pdf</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2015-04-05">05 de abril del 2015</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B62">
+				<mixed-citation>De Sena, AngÃ©lica y AdriÃ¡n Scribano. 2014. &quot;Consumo compensatorio: Â¿una nueva forma de construir sensibilidades desde el Estado?&quot; <italic>Relaces</italic>: 65-82. <comment>
+						<ext-link ext-link-type="uri" xlink:href="http://www.relaces.com.ar/index.php/relaces/article/view/335">http://www.relaces.com.ar/index.php/relaces/article/view/335</ext-link>
+					</comment> (4 de agosto del 2015).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>De Sena</surname>
+							<given-names>AngÃ©lica</given-names>
+						</name>
+						<name>
+							<surname>Scribano</surname>
+							<given-names>AdriÃ¡n</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Consumo compensatorio: Â¿una nueva forma de construir sensibilidades desde el Estado?</article-title>
+					<source>Relaces</source>
+					<fpage>65</fpage>
+					<lpage>82</lpage>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="http://www.relaces.com.ar/index.php/relaces/article/view/335">http://www.relaces.com.ar/index.php/relaces/article/view/335</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2015-08-04">4 de agosto del 2015</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B63">
+				<mixed-citation>Dettano, Andrea. 2015. &quot;Apuntes para la problematizaciÃ³n: Â¿DesmercantilizaciÃ³n o re-mercantilizaciÃ³n de la polÃ­tica social actual? Transferencias estatales y consumo como aspectos a considerar&quot;. <italic>De prÃ¡cticas y discursos</italic> 4 (5): 1-22. Santiago del Estero, Argentina. <comment>
+						<ext-link ext-link-type="uri" xlink:href="http://ppct.caicyt.gov.ar/index.php/depracticasydiscursos/article/view/8152">http://ppct.caicyt.gov.ar/index.php/depracticasydiscursos/article/view/8152</ext-link>
+					</comment>. (04 de agosto del 2016).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dettano</surname>
+							<given-names>Andrea</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Apuntes para la problematizaciÃ³n: Â¿DesmercantilizaciÃ³n o re-mercantilizaciÃ³n de la polÃ­tica social actual? Transferencias estatales y consumo como aspectos a considerar</article-title>
+					<source>De prÃ¡cticas y discursos</source>
+					<volume>4</volume>
+					<issue>5</issue>
+					<fpage>1</fpage>
+					<lpage>22</lpage>
+					<publisher-name>Santiago del Estero</publisher-name>
+					<publisher-loc>Argentina</publisher-loc>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="http://ppct.caicyt.gov.ar/index.php/depracticasydiscursos/article/view/8152">http://ppct.caicyt.gov.ar/index.php/depracticasydiscursos/article/view/8152</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2016-08-04">04 de agosto del 2016</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B64">
+				<mixed-citation>______. 2017. &quot;PrÃ¡cticas de consumo y emociones de las destinatarias de Programas de transferencias condicionadas de ingreso en la ciudad de Buenos Aires&quot;. <italic>Revista novos rumos sociolÃ³gicos</italic> 5 (8): 8-32. <ext-link ext-link-type="uri" xlink:href="https://periodicos.ufpel.edu.br/ojs2/index.php/norus/article/ view/12590">https://periodicos.ufpel.edu.br/ojs2/index.php/norus/article/ view/12590</ext-link> (04 de agosto del 2018).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dettano</surname>
+							<given-names>Andrea</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>PrÃ¡cticas de consumo y emociones de las destinatarias de Programas de transferencias condicionadas de ingreso en la ciudad de Buenos Aires</article-title>
+					<source>Revista novos rumos sociolÃ³gicos</source>
+					<volume>5</volume>
+					<issue>8</issue>
+					<fpage>8</fpage>
+					<lpage>32</lpage>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://periodicos.ufpel.edu.br/ojs2/index.php/norus/article/ view/12590">https://periodicos.ufpel.edu.br/ojs2/index.php/norus/article/ view/12590</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2018-08-04">04 de agosto del 2018</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B65">
+				<mixed-citation>______. 2019. &quot;Las polÃ­ticas sociales del siglo XXI en la ciudad de buenos aires: la mirada de los tÃ©cnicos sobre los usos de las transferencias de dinero&quot;. <italic>Digithum</italic> (24): 1-13) Catalunya, EspaÃ±a. http://doi.org/i0.7238/d.v0i24.3i70 (04 de enero del 2020).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dettano</surname>
+							<given-names>Andrea</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Las polÃ­ticas sociales del siglo XXI en la ciudad de buenos aires: la mirada de los tÃ©cnicos sobre los usos de las transferencias de dinero</article-title>
+					<source>Digithum</source>
+					<issue>24</issue>
+					<fpage>1</fpage>
+					<lpage>13</lpage>
+					<publisher-loc>Catalunya, EspaÃ±a</publisher-loc>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="http://doi.org/10.7238/d.v0124.3170">http://doi.org/10.7238/d.v0124.3170</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2020-01-04">04 de enero del 2020</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B66">
+				<mixed-citation>______. 2020. &quot;Las polÃ­ticas sociales desde una sociologÃ­a de las emociones: un estudio de las prÃ¡cticas de consumo de sus destinatarias&quot;. <italic>Aposta. Revista de ciencias sociales</italic> 85: 129-147. EspaÃ±a. <ext-link ext-link-type="uri" xlink:href="http://apostadigital.com/revistav3/hemeroteca/adettano.pdf">http://apostadigital.com/revistav3/hemeroteca/adettano.pdf</ext-link> (04 de abril del 2020).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dettano</surname>
+							<given-names>Andrea</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Las polÃ­ticas sociales desde una sociologÃ­a de las emociones: un estudio de las prÃ¡cticas de consumo de sus destinatarias</article-title>
+					<source>Aposta. Revista de ciencias sociales</source>
+					<volume>85</volume>
+					<fpage>129</fpage>
+					<lpage>147</lpage>
+					<publisher-loc>EspaÃ±a</publisher-loc>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="http://apostadigital.com/revistav3/hemeroteca/adettano.pdf">http://apostadigital.com/revistav3/hemeroteca/adettano.pdf</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2020-04-04">04 de abril del 2020</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B67">
+				<mixed-citation>Dettano, Andrea, MarÃ­a Victoria Sordini y Florencia Chahbenderian. 2019. &quot;Social policies, conditional cash transfer programs and types of indebtedness: possible articulations in twenty first century Argentina&quot;. <italic>Advances in social sciences research journal</italic> 6 (5): 276-292. United Kingdom. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://journals.scholarpublishing.org/index.php/assrj/article/view/6579">https://journals.scholarpublishing.org/index.php/assrj/article/view/6579</ext-link>
+					</comment> (05 de abril del 2020).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dettano</surname>
+							<given-names>Andrea</given-names>
+						</name>
+						<name>
+							<surname>Sordini</surname>
+							<given-names>MarÃ­a Victoria</given-names>
+						</name>
+						<name>
+							<surname>Chahbenderian</surname>
+							<given-names>Florencia</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Social policies, conditional cash transfer programs and types of indebtedness: possible articulations in twenty first century Argentina</article-title>
+					<source>Advances in social sciences research journal</source>
+					<volume>6</volume>
+					<issue>5</issue>
+					<fpage>276</fpage>
+					<lpage>292</lpage>
+					<publisher-loc>United Kingdom</publisher-loc>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://journals.scholarpublishing.org/index.php/assrj/article/view/6579">https://journals.scholarpublishing.org/index.php/assrj/article/view/6579</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2020-04-05">05 de abril del 2020</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B68">
+				<mixed-citation>Dettano, Andrea y MarÃ­a Lava. 2014. &quot;Entablando vinculaciones entre la sociedad de consumo, las sensibilidades y las polÃ­ticas sociales desde el sur global&quot;. <italic>BoletÃ­n cientÃ­fico sapiens research</italic> 4 (2): 27-32. Venezuela. <comment>
+						<ext-link ext-link-type="uri" xlink:href="http://www.sapiensresearch.org/images/pdf/v4n2/v4n2_sociologando_i.pdf">http://www.sapiensresearch.org/images/pdf/v4n2/v4n2_sociologando_i.pdf</ext-link>
+					</comment> (05 de junio del 2015).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dettano</surname>
+							<given-names>Andrea</given-names>
+						</name>
+						<name>
+							<surname>Lava</surname>
+							<given-names>MarÃ­a</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Entablando vinculaciones entre la sociedad de consumo, las sensibilidades y las polÃ­ticas sociales desde el sur global</article-title>
+					<source>BoletÃ­n cientÃ­fico sapiens research</source>
+					<volume>4</volume>
+					<issue>2</issue>
+					<fpage>27</fpage>
+					<lpage>32</lpage>
+					<publisher-loc>Venezuela</publisher-loc>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="http://www.sapiensresearch.org/images/pdf/v4n2/v4n2_sociologando_i.pdf">http://www.sapiensresearch.org/images/pdf/v4n2/v4n2_sociologando_i.pdf</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2015-06-05">05 de junio del 2015</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B69">
+				<mixed-citation>Fridman, Daniel. 2008. &quot;La creaciÃ³n de los consumidores en la Ãºltima dictadura argentina&quot; <italic>Apuntes de investigaciÃ³n del CECYP</italic> 14: 71-92. Buenos Aires, Argentina. <comment>
+						<ext-link ext-link-type="uri" xlink:href="http://www.apuntescecyp.com.ar/index.php/apuntes/article/view/124">http://www.apuntescecyp.com.ar/index.php/apuntes/article/view/124</ext-link>
+					</comment> (23 de febrero del 2015).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fridman</surname>
+							<given-names>Daniel</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<article-title>La creaciÃ³n de los consumidores en la Ãºltima dictadura argentina</article-title>
+					<source>Apuntes de investigaciÃ³n del CECYP</source>
+					<volume>14</volume>
+					<fpage>71</fpage>
+					<lpage>92</lpage>
+					<publisher-loc>Buenos Aires, Argentina</publisher-loc>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="http://www.apuntescecyp.com.ar/index.php/apuntes/article/view/124">http://www.apuntescecyp.com.ar/index.php/apuntes/article/view/124</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2015-02-23">23 de febrero del 2015</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B70">
+				<mixed-citation>Gago, VerÃ³nica y Sandro Mezzadra. 2015. &quot;Para una crÃ­tica de las operaciones extractivas del capital. PatrÃ³n de acumulaciÃ³n y luchas sociales en el tiempo de la financiarizaciÃ³n&quot;. <italic>Nueva sociedad</italic> 255: 38-52. Buenos Aires: FundaciÃ³n Friedrich Ebert. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://nuso.org/articulo/para-una-critica-de-las-operaciones-extractivas-del-capital-patron-de-acumu-lacion-y-luchas-sociales-en-el-tiempo-de-la-financiarizacion/">https://nuso.org/articulo/para-una-critica-de-las-operaciones-extractivas-del-capital-patron-de-acumu-lacion-y-luchas-sociales-en-el-tiempo-de-la-financiarizacion/</ext-link>
+					</comment> (01 de febrero de 2016).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gago</surname>
+							<given-names>VerÃ³nica</given-names>
+						</name>
+						<name>
+							<surname>Mezzadra</surname>
+							<given-names>Sandro</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Para una crÃ­tica de las operaciones extractivas del capital. PatrÃ³n de acumulaciÃ³n y luchas sociales en el tiempo de la financiarizaciÃ³n</article-title>
+					<source>Nueva sociedad</source>
+					<volume>255</volume>
+					<fpage>38</fpage>
+					<lpage>52</lpage>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>FundaciÃ³n Friedrich Ebert</publisher-name>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://nuso.org/articulo/para-una-critica-de-las-operaciones-extractivas-del-capital-patron-de-acumu-lacion-y-luchas-sociales-en-el-tiempo-de-la-financiarizacion/">https://nuso.org/articulo/para-una-critica-de-las-operaciones-extractivas-del-capital-patron-de-acumu-lacion-y-luchas-sociales-en-el-tiempo-de-la-financiarizacion/</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2016-02-01">01 de febrero de 2016</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B71">
+				<mixed-citation>GarcÃ­a MartÃ­nez, Javier, AdriÃ¡n Jurado Herrera y Miguel Barrionuevo Molino. 2017. &quot;Dominar el deseo: el imperativo de la felicidad en el capitalismo emocional&quot;. <italic>Intersticios</italic> 11 (2): 51-69. EspaÃ±a. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.intersticios.es/article/view/17709">https://www.intersticios.es/article/view/17709</ext-link>
+					</comment> (20 de febrero de 2018).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>MartÃ­nez</surname>
+							<given-names>GarcÃ­a</given-names>
+						</name>
+						<name>
+							<surname>AdriÃ¡n Jurado Herrera</surname>
+							<given-names>Javier</given-names>
+						</name>
+						<name>
+							<surname>Barrionuevo Molino</surname>
+							<given-names>Miguel</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Dominar el deseo: el imperativo de la felicidad en el capitalismo emocional</article-title>
+					<source>Intersticios</source>
+					<volume>11</volume>
+					<issue>2</issue>
+					<fpage>51</fpage>
+					<lpage>69</lpage>
+					<publisher-loc>EspaÃ±a</publisher-loc>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.intersticios.es/article/view/17709">https://www.intersticios.es/article/view/17709</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2018-02-20">20 de febrero de 2018</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B72">
+				<mixed-citation>Kroen, Sheryl. 2004. &quot;A political history of the consumer&quot;. <italic>The historical journal</italic> 47(3): 709-736. <comment>
+						<ext-link ext-link-type="uri" xlink:href="http://www.jstor.org/stable/4091762">http://www.jstor.org/stable/4091762</ext-link>
+					</comment> (02 de febrero del 2015).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kroen</surname>
+							<given-names>Sheryl</given-names>
+						</name>
+					</person-group>
+					<year>2004</year>
+					<article-title>A political history of the consumer</article-title>
+					<source>The historical journal</source>
+					<volume>47</volume>
+					<issue>3</issue>
+					<fpage>709</fpage>
+					<lpage>736</lpage>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="http://www.jstor.org/stable/4091762">http://www.jstor.org/stable/4091762</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2015-02-02">02 de febrero del 2015</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B73">
+				<mixed-citation>Lavinas, Lena. 2014a. &quot;La asistencia social en el siglo XXI&quot;. <italic>New left review</italic> 84: 7-48. <comment>
+						<ext-link ext-link-type="uri" xlink:href="http://newleftreview.es/authors/lena-lavinas">http://newleftreview.es/authors/lena-lavinas</ext-link>
+					</comment> (15 de noviembre del 2014).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lavinas</surname>
+							<given-names>Lena</given-names>
+						</name>
+					</person-group>
+					<year>2014a</year>
+					<article-title>La asistencia social en el siglo XXI</article-title>
+					<source>New left review</source>
+					<volume>84</volume>
+					<fpage>7</fpage>
+					<lpage>48</lpage>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="http://newleftreview.es/authors/lena-lavinas">http://newleftreview.es/authors/lena-lavinas</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2014-11-15">15 de noviembre del 2014</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B74">
+				<mixed-citation>______. 2014b. &quot;AmÃ©rica latina: mÃ­nimos monetÃ¡rios em lugar da proteÃ§Ã£o social&quot;. <italic>Revista polÃ­tica sociale desenvolvimento</italic> 8: 18-27. <ext-link ext-link-type="uri" xlink:href="https://plataformapoliticasocial2.files.wordpress. com/2014/11/revista-08.pdf">https://plataformapoliticasocial2.files.wordpress. com/2014/11/revista-08.pdf</ext-link> (03 de marzo del 2015).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lavinas</surname>
+							<given-names>Lena</given-names>
+						</name>
+					</person-group>
+					<year>2014b</year>
+					<article-title>AmÃ©rica latina: mÃ­nimos monetÃ¡rios em lugar da proteÃ§Ã£o social</article-title>
+					<source>Revista polÃ­tica sociale desenvolvimento</source>
+					<volume>8</volume>
+					<fpage>18</fpage>
+					<lpage>27</lpage>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://plataformapoliticasocial2.files.wordpress. com/2014/11/revista-08.pdf">https://plataformapoliticasocial2.files.wordpress. com/2014/11/revista-08.pdf</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2015-03-03">03 de marzo del 2015</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B75">
+				<mixed-citation>Llobet, Valeria y Alberto Minujin. 2011. &quot;La pobreza infantil y las polÃ­ticas sociales. Una mirada sobre las transferencias condicionadas de ingresos&quot;. <italic>Textos &amp; contextos</italic> 10 (2): 274-287. Porto Alegre. <comment>
+						<ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/pdf/3215/321527169007.pdf">http://www.redalyc.org/pdf/3215/321527169007.pdf</ext-link>
+					</comment> (03 de marzo de 2013).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Llobet</surname>
+							<given-names>Valeria</given-names>
+						</name>
+						<name>
+							<surname>Minujin</surname>
+							<given-names>Alberto</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>La pobreza infantil y las polÃ­ticas sociales. Una mirada sobre las transferencias condicionadas de ingresos</article-title>
+					<source>Textos &amp; contextos</source>
+					<volume>10</volume>
+					<issue>2</issue>
+					<fpage>274</fpage>
+					<lpage>287</lpage>
+					<publisher-loc>Porto Alegre</publisher-loc>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/pdf/3215/321527169007.pdf">http://www.redalyc.org/pdf/3215/321527169007.pdf</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2013-03-03">03 de marzo de 2013</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B76">
+				<mixed-citation>MacÃ­as GonzÃ¡lez y Gizelle Guadalupe. 2016. &quot;La monetarizaciÃ³n de la pobreza, las mujeres y la revoluciÃ³n microfinanciera en mÃ©xico&quot;. <italic>Revista de estudios de gÃ©nero. La ventana</italic> V: 187-194. <comment>
+						<ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/articulo.oa?id=884 4 67390 09">http://www.redalyc.org/articulo.oa?id=884 4 67390 09</ext-link>
+					</comment> (03 de febrero del 2017).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>GonzÃ¡lez</surname>
+							<given-names>MacÃ­as</given-names>
+						</name>
+						<name>
+							<surname>Guadalupe</surname>
+							<given-names>Gizelle</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>La monetarizaciÃ³n de la pobreza, las mujeres y la revoluciÃ³n microfinanciera en mÃ©xico</article-title>
+					<source>Revista de estudios de gÃ©nero. La ventana</source>
+					<volume>V</volume>
+					<fpage>187</fpage>
+					<lpage>194</lpage>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="http://www.redalyc.org/articulo.oa?id=884 4 67390 09">http://www.redalyc.org/articulo.oa?id=884 4 67390 09</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2017-02-03">03 de febrero del 2017</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B77">
+				<mixed-citation>Maneiro, MÃ³nica. 2017. &quot;Representaciones sociales sobre la AsignaciÃ³n Universal por Hijo de los sectores populares urbanos perifÃ©ricos (AUH)&quot;. <italic>Trabajo y sociedad</italic> 29: 611-629. Santiago del Estero, Argentina. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.unse.edu.ar/trabajoysociedad/29%20maneiro%20maria%20auh%20seguridad%20social%20%20informalidad%20laboral. pdf">https://www.unse.edu.ar/trabajoysociedad/29%20maneiro%20maria%20auh%20seguridad%20social%20%20informalidad%20laboral. pdf</ext-link>
+					</comment> (03 de marzo del 2018).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Maneiro</surname>
+							<given-names>MÃ³nica</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Representaciones sociales sobre la AsignaciÃ³n Universal por Hijo de los sectores populares urbanos perifÃ©ricos (AUH)</article-title>
+					<source>Trabajo y sociedad</source>
+					<volume>29</volume>
+					<fpage>611</fpage>
+					<lpage>629</lpage>
+					<publisher-name>Santiago del Estero</publisher-name>
+					<publisher-loc>Argentina</publisher-loc>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.unse.edu.ar/trabajoysociedad/29%20maneiro%20maria%20auh%20seguridad%20social%20%20informalidad%20laboral. pdf">https://www.unse.edu.ar/trabajoysociedad/29%20maneiro%20maria%20auh%20seguridad%20social%20%20informalidad%20laboral. pdf</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2018-03-03">03 de marzo del 2018</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B78">
+				<mixed-citation>OIT. 2014. &quot;Los programas de transferencias condicionadas y el mercado laboral&quot;. <italic>Coyuntura laboral en AmÃ©rica Latina y el Caribe</italic> 10). Santiago: CEPAL, OIT. <comment>
+						<ext-link ext-link-type="uri" xlink:href="http://www.cepal.org/es/publicaciones/36896-coyunturalaboral-en-america-latina-yel-caribe-los-programas-detransferencias">http://www.cepal.org/es/publicaciones/36896-coyunturalaboral-en-america-latina-yel-caribe-los-programas-detransferencias</ext-link>
+					</comment> (03 de mayo del 2015).</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>OIT</collab>
+					</person-group>
+					<year>2014</year>
+					<chapter-title>Los programas de transferencias condicionadas y el mercado laboral</chapter-title>
+					<source>Coyuntura laboral en AmÃ©rica Latina y el Caribe</source>
+					<volume>10</volume>
+					<publisher-loc>Santiago</publisher-loc>
+					<publisher-name>CEPAL, OIT</publisher-name>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="http://www.cepal.org/es/publicaciones/36896-coyunturalaboral-en-america-latina-yel-caribe-los-programas-detransferencias">http://www.cepal.org/es/publicaciones/36896-coyunturalaboral-en-america-latina-yel-caribe-los-programas-detransferencias</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2015-05-03">03 de mayo del 2015</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B79">
+				<mixed-citation>Oszlak, Oscar, y O'Donnell, Guillermo (1995). &quot;Estado y polÃ­ticas estatales en AmÃ©rica Latina: hacia una estrategia de investigaciÃ³n&quot;. <italic>Redes</italic> 2 (4): 99-128. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/articulo.oa?id=90711285004">https://www.redalyc.org/articulo.oa?id=90711285004</ext-link>
+					</comment> (15 de junio del 2021). </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Oszlak</surname>
+							<given-names>Oscar</given-names>
+						</name>
+						<name>
+							<surname>O'Donnell</surname>
+							<given-names>Guillermo</given-names>
+						</name>
+					</person-group>
+					<year>1995</year>
+					<article-title>Estado y polÃ­ticas estatales en AmÃ©rica Latina: hacia una estrategia de investigaciÃ³n</article-title>
+					<source>Redes</source>
+					<volume>2</volume>
+					<issue>4</issue>
+					<fpage>99</fpage>
+					<lpage>128</lpage>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/articulo.oa?id=90711285004">https://www.redalyc.org/articulo.oa?id=90711285004</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2021-06-15">15 de junio del 2021</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B80">
+				<mixed-citation>Rawlings Laura. 2005. &quot;A new approach to social assistance: latin america's experience with conditional cash transfer programmes&quot;. <italic>International social security review</italic> 58 378 (2-3): 133-161. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://ideas.repec.org/a/wly/intssr/v58y2005i2-3pi33-161.html">https://ideas.repec.org/a/wly/intssr/v58y2005i2-3pi33-161.html</ext-link>
+					</comment> (21 de diciembre del 2013).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Laura</surname>
+							<given-names>Rawlings</given-names>
+						</name>
+					</person-group>
+					<year>2005.</year>
+					<article-title>A new approach to social assistance: latin america's experience with conditional cash transfer programmes</article-title>
+					<source>International social security review</source>
+					<volume>58</volume>
+					<issue>378</issue>
+					<fpage>133</fpage>
+					<lpage>161</lpage>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://ideas.repec.org/a/wly/intssr/v58y2005i2-3pi33-161.html">https://ideas.repec.org/a/wly/intssr/v58y2005i2-3pi33-161.html</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2013-12-21">21 de diciembre del 2013</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B81">
+				<mixed-citation>Scribano, AdriÃ¡n y AngÃ©lica de Sena. 2013. &quot;Los planes de asistencia social en buenos aires: una mirada desde las polÃ­ticas de los cuerpos y las emociones&quot;. <italic>Aposta. Revista de ciencias sociales</italic> (59): 1-25. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/pdf/4959/495950255003.pdf">https://www.redalyc.org/pdf/4959/495950255003.pdf</ext-link>
+					</comment> (12 de marzo del 2014).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Scribano</surname>
+							<given-names>AdriÃ¡n</given-names>
+						</name>
+						<name>
+							<surname>Sena</surname>
+							<given-names>AngÃ©lica de</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>Los planes de asistencia social en buenos aires: una mirada desde las polÃ­ticas de los cuerpos y las emociones</article-title>
+					<source>Aposta. Revista de ciencias sociales</source>
+					<issue>59</issue>
+					<fpage>1</fpage>
+					<lpage>25</lpage>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/pdf/4959/495950255003.pdf">https://www.redalyc.org/pdf/4959/495950255003.pdf</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2014-03-12">12 de marzo del 2014</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B82">
+				<mixed-citation>Stein, Rosa Helena. 2011. &quot;Desarrollo y gestiÃ³n de la pobreza: los mÃ­nimos sociales en amÃ©rica latina&quot;. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://docplayer.es/15963783-desarrollo-y-gestion-de-la-pobreza-los-minimos-sociales-en-america-latina-development-and-management-of-poverty-the-social-minimum-in-latin-america.html">https://docplayer.es/15963783-desarrollo-y-gestion-de-la-pobreza-los-minimos-sociales-en-america-latina-development-and-management-of-poverty-the-social-minimum-in-latin-america.html</ext-link>
+					</comment> (05 de enero del 2018).</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Stein</surname>
+							<given-names>Rosa Helena</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<source>Desarrollo y gestiÃ³n de la pobreza: los mÃ­nimos sociales en amÃ©rica latina</source>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://docplayer.es/15963783-desarrollo-y-gestion-de-la-pobreza-los-minimos-sociales-en-america-latina-development-and-management-of-poverty-the-social-minimum-in-latin-america.html">https://docplayer.es/15963783-desarrollo-y-gestion-de-la-pobreza-los-minimos-sociales-en-america-latina-development-and-management-of-poverty-the-social-minimum-in-latin-america.html</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2018-01-05">05 de enero del 2018</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B83">
+				<mixed-citation>Villatoro, Pablo. 2007. Las transferencias condicionadas en amÃ©rica latina: luces y sombras. Seminario internacional &quot;<italic>EvoluciÃ³n y desafÃ­os de los programas de transferencias condicionadas</italic>
+ <italic>&quot;.</italic> CEPAL. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.cepal.org/sites/default/files/events/files/2007-nov-cepal_pablovillatoro_ptc.pdf">https://www.cepal.org/sites/default/files/events/files/2007-nov-cepal_pablovillatoro_ptc.pdf</ext-link>
+					</comment> (4 de abril del 2012).</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Villatoro</surname>
+							<given-names>Pablo</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<chapter-title>as transferencias condicionadas en amÃ©rica latina: luces y sombras. Seminario internacional</chapter-title>
+					<source>EvoluciÃ³n y desafÃ­os de los programas de transferencias condicionadas</source>
+					<publisher-name>CEPAL</publisher-name>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.cepal.org/sites/default/files/events/files/2007-nov-cepal_pablovillatoro_ptc.pdf">https://www.cepal.org/sites/default/files/events/files/2007-nov-cepal_pablovillatoro_ptc.pdf</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2012-04-04">4 de abril del 2012</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B84">
+				<mixed-citation>Wilkis, Ariel. 2014. &quot;SociologÃ­a del crÃ©dito y economÃ­a de las clases populares&quot;. <italic>Revista mexicana de sociologÃ­a</italic> 76 (2): 225-252. <comment>
+						<ext-link ext-link-type="uri" xlink:href="http://www.revistamexicanadesociologia.unam.mx/index.php/rms/article/download/46430/41698">http://www.revistamexicanadesociologia.unam.mx/index.php/rms/article/download/46430/41698</ext-link>
+					</comment> (23 de marzo del 2015).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wilkis</surname>
+							<given-names>Ariel</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>SociologÃ­a del crÃ©dito y economÃ­a de las clases populares</article-title>
+					<source>Revista mexicana de sociologÃ­a</source>
+					<volume>76</volume>
+					<issue>2</issue>
+					<fpage>225</fpage>
+					<lpage>252</lpage>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="http://www.revistamexicanadesociologia.unam.mx/index.php/rms/article/download/46430/41698">http://www.revistamexicanadesociologia.unam.mx/index.php/rms/article/download/46430/41698</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2015-03-23">23 de marzo del 2015</date-in-citation>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<fn-group>
+			<fn fn-type="other" id="fn6">
+				<label><sup>*</sup></label>
+				<p>El presente trabajo es resultado de una investigaciÃ³n doctoral titulada â€œPolÃ­ticas Sociales y Consumo: una lectura desde las emocionesâ€, adscrita en la Universidad de Alicante (EspaÃ±a) presentada el 8 de marzo del 2019.</p>
+			</fn>
+		</fn-group>
+		<fn-group>
+			<fn fn-type="other" id="fn1">
+				<label>1</label>
+				<p>
+					<xref ref-type="bibr" rid="B15">Correa (2009</xref>, 74) seÃ±ala que si bien se pueden encontrar antecedentes desde los '80, la literatura acuerda en considerar las experiencias de MÃ©xico y Brasil como el inicio de esta generaciÃ³n de programas. Para 1995 Brasil ya tenÃ­a sus primeras experiencias a nivel municipal que consolidarÃ­an lo que a partir de 2003 se conoce como Bolsa Familia, mientras que, en 1997, MÃ©xico ya implementaba el Programa PROGRESA, rebautizado como OPORTUNIDADES.</p>
+			</fn>
+			<fn fn-type="other" id="fn2">
+				<label>2</label>
+				<p>A nivel Mundial, en tÃ©rminos de millones de personas, 3.7 cobran algÃºn PTCI en Europa, 0.3 en Ãfrica y 61.3 en Asia y el PacÃ­fico (<xref ref-type="bibr" rid="B8">BBVA 2011</xref>, 3).</p>
+			</fn>
+			<fn fn-type="other" id="fn3">
+				<label>3</label>
+				<p>En cuanto a las definiciones, algunos autores tambiÃ©n van a considerar estos programas como &quot;de transferencias condicionadas&quot; sin reducir esta modalidad a los recursos monetarios (<xref ref-type="bibr" rid="B46">Rangel 2011</xref>, 10), Sin embargo, sin desatender las diferencias en las definiciones, desde aquÃ­ nos referiremos a los programas que transfieren ingresos.</p>
+			</fn>
+			<fn fn-type="other" id="fn4">
+				<label>4</label>
+				<p>TambiÃ©n hay PTCI que no se encuentran dirigidos Ãºnicamente a hogares con menores a cargo. El Programa CiudadanÃ­a PorteÃ±a, es un ejemplo de esto, ya que estÃ¡ dirigido a hogares pobres, los cuales pueden ser unipersonales.</p>
+			</fn>
+			<fn fn-type="other" id="fn5">
+				<label>5</label>
+				<p>Se pueden nombrar algunas polÃ­ticas, para el caso argentino, como AHORA 12, Tarjeta ARGENTA, Precios Cuidados, Consumo Protegido. A grandes rasgos, estas polÃ­ticas proporcionaron financiamiento por medio de tarjetas de crÃ©dito para la compra de productos de indumentaria y electrodomÃ©sticos, tarjetas de crÃ©dito y prÃ©stamos en efectivo para los jubilados, controles de precios en artÃ­culos de consumo bÃ¡sico, resoluciÃ³n de conflictos relacionados con el consumo, brindando asistencia legal a los consumidores, entre otros (<xref ref-type="bibr" rid="B54">ArcidiÃ¡cono, 2017</xref>; <xref ref-type="bibr" rid="B29">Figueiro, 2013</xref>).</p>
+			</fn>
+		</fn-group>
+		<fn-group>
+			<fn fn-type="other" id="fn7">
+				<label>CÃ³mo citar este artÃ­culo</label>
+				<p> Dettano, Andrea. 2021. â€œDevenires de la polÃ­tica social: conceptualizaciones y menciones sobre el consumo en los Programas de Transferencias Condicionadas de Ingresosâ€. <italic>Trabajo Social</italic> 23 (2): 357-378. BogotÃ¡: Departamento de Trabajo Social, Facultad de Ciencias Humanas, Universidad Nacional de Colombia. doi: 10.15446/ts.v23n2.87446</p>
+			</fn>
+		</fn-group>
+	</back>
+</article>
